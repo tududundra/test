@@ -1,0 +1,1001 @@
+id;date;country;campaign;ts;os;device;ua;cid
+1;24.04.2015;RU;campaign_150423;24.04.2015 3:00;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko)";04c2644602@somedomain.com
+2;24.04.2015;GB;campaign_150423;24.04.2015 3:00;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";830bacab8a@somedomain.com
+3;24.04.2015;RU;campaign_150423;24.04.2015 3:00;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";c5c4c457ee@somedomain.com
+4;24.04.2015;RU;campaign_150423;24.04.2015 3:00;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a15e9727d4@somedomain.com
+5;24.04.2015;RU;campaign_150423;24.04.2015 3:01;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";40f113d9f6@somedomain.com
+6;24.04.2015;RU;campaign_150423;24.04.2015 3:01;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.2; PadFone T004 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";608f3ca77f@somedomain.com
+7;24.04.2015;RU;campaign_150423;24.04.2015 3:02;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";4fed9f71c7@somedomain.com
+8;24.04.2015;RU;campaign_150423;24.04.2015 3:02;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B435";169b49edf3@somedomain.com
+9;24.04.2015;RU;campaign_150423;24.04.2015 3:02;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e06c1a7b96@somedomain.com
+10;24.04.2015;RU;campaign_150423;24.04.2015 3:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";ebe65eb811@somedomain.com
+11;24.04.2015;RU;campaign_150423;24.04.2015 3:03;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";a7d25ebe79@somedomain.com
+12;24.04.2015;RU;campaign_150423;24.04.2015 3:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";2ade5fd9de@somedomain.com
+13;24.04.2015;RU;campaign_150423;24.04.2015 3:03;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";0f43f0524a@somedomain.com
+14;24.04.2015;RU;campaign_150423;24.04.2015 3:03;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";a14e928488@somedomain.com
+15;24.04.2015;RU;campaign_150423;24.04.2015 3:03;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";0f43f0524a@somedomain.com
+16;24.04.2015;RU;campaign_150423;24.04.2015 3:03;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";a14e928488@somedomain.com
+17;24.04.2015;RU;campaign_150423;24.04.2015 3:03;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";0f43f0524a@somedomain.com
+18;24.04.2015;RU;campaign_150423;24.04.2015 3:04;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";0bf15e0fc1@somedomain.com
+19;24.04.2015;CN;campaign_150423;24.04.2015 3:05;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";2ffcef1c64@somedomain.com
+20;24.04.2015;RU;campaign_150402;24.04.2015 3:05;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";288cf7d438@somedomain.com
+21;24.04.2015;RU;campaign_150409;24.04.2015 3:05;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";288cf7d438@somedomain.com
+22;24.04.2015;RU;campaign_150416;24.04.2015 3:05;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";288cf7d438@somedomain.com
+23;24.04.2015;RU;campaign_150423;24.04.2015 3:05;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";288cf7d438@somedomain.com
+24;24.04.2015;RU;campaign_150423;24.04.2015 3:05;Windows;desktop;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36;734fca92e7@somedomain.com
+25;24.04.2015;RU;campaign_150423;24.04.2015 3:07;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";08140c0d4c@somedomain.com
+26;24.04.2015;RU;campaign_150423;24.04.2015 3:08;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";2b475f4f42@somedomain.com
+27;24.04.2015;RU;campaign_150423;24.04.2015 3:08;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";8c51bcea06@somedomain.com
+28;24.04.2015;RU;campaign_150423;24.04.2015 3:09;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";94168c27a4@somedomain.com
+29;24.04.2015;RU;campaign_150423;24.04.2015 3:10;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";cfd4f0470b@somedomain.com
+30;24.04.2015;RU;campaign_150423;24.04.2015 3:11;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 YaBrowser/15.2.2214.3645 Safari/537.36";317b83475f@somedomain.com
+31;24.04.2015;RU;campaign_150423;24.04.2015 3:12;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";78adb505e1@somedomain.com
+32;24.04.2015;RU;campaign_150423;24.04.2015 3:12;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";21d15bfddd@somedomain.com
+33;24.04.2015;RU;campaign_150423;24.04.2015 3:13;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.2; D5803 Build/23.1.A.0.726) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";9ef312eeca@somedomain.com
+34;24.04.2015;RU;campaign_150423;24.04.2015 3:13;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET4.0C; .NET4.0E; MSOffice 12)";987feb5152@somedomain.com
+35;24.04.2015;RU;campaign_150423;24.04.2015 3:14;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET4.0C; .NET4.0E; MSOffice 12)";987feb5152@somedomain.com
+36;24.04.2015;RU;campaign_150423;24.04.2015 3:14;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET4.0C; .NET4.0E; MSOffice 12)";987feb5152@somedomain.com
+37;24.04.2015;DE;campaign_150423;24.04.2015 3:14;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";5ab83f594f@somedomain.com
+38;24.04.2015;RU;campaign_150423;24.04.2015 3:19;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";1860779f67@somedomain.com
+39;24.04.2015;RU;campaign_150423;24.04.2015 3:19;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";0a8b696d4d@somedomain.com
+40;24.04.2015;RU;campaign_150423;24.04.2015 3:20;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) YaBrowser/15.4.2272.3000.11 Mobile/12A405 Safari/600.1.4";e26b61d14b@somedomain.com
+41;24.04.2015;RU;campaign_150423;24.04.2015 3:20;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";aa16bcdd74@somedomain.com
+42;24.04.2015;RU;campaign_150423;24.04.2015 3:20;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";859be71466@somedomain.com
+43;24.04.2015;RU;campaign_150420;24.04.2015 3:20;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";cb470a1fb5@somedomain.com
+44;24.04.2015;RU;campaign_150423;24.04.2015 3:21;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";cb470a1fb5@somedomain.com
+45;24.04.2015;RU;campaign_150420;24.04.2015 3:21;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";fe2810fe93@somedomain.com
+46;24.04.2015;RU;campaign_150423;24.04.2015 3:21;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";74312c81f4@somedomain.com
+47;24.04.2015;RU;campaign_150413;24.04.2015 3:22;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";cb470a1fb5@somedomain.com
+48;24.04.2015;RU;campaign_150416;24.04.2015 3:22;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";cb470a1fb5@somedomain.com
+49;24.04.2015;RU;campaign_150423;24.04.2015 3:23;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";174eb198dc@somedomain.com
+50;24.04.2015;RU;campaign_150409;24.04.2015 3:23;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";cb470a1fb5@somedomain.com
+51;24.04.2015;RU;campaign_150423;24.04.2015 3:24;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";b34bf07e92@somedomain.com
+52;24.04.2015;RU;campaign_150420;24.04.2015 3:24;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";b34bf07e92@somedomain.com
+53;24.04.2015;RU;campaign_150407;24.04.2015 3:24;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";cb470a1fb5@somedomain.com
+54;24.04.2015;RU;campaign_150423;24.04.2015 3:24;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";b34bf07e92@somedomain.com
+55;24.04.2015;US;campaign_150423;24.04.2015 3:25;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8be6f1496f@somedomain.com
+56;24.04.2015;RU;campaign_150420;24.04.2015 3:25;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";ed0fff5bc0@somedomain.com
+57;24.04.2015;RU;campaign_150423;24.04.2015 3:25;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko)";b15265b3a4@somedomain.com
+58;24.04.2015;RU;campaign_150423;24.04.2015 3:26;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0e87b7e5fd@somedomain.com
+59;24.04.2015;RU;campaign_150420;24.04.2015 3:27;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) YaBrowser/15.4.2272.3000.11 Mobile/12A405 Safari/600.1.4";e26b61d14b@somedomain.com
+60;24.04.2015;RU;campaign_150423;24.04.2015 3:27;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";f7b81d39ba@somedomain.com
+61;24.04.2015;RU;campaign_150423;24.04.2015 3:28;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";9793bdbb96@somedomain.com
+62;24.04.2015;RU;campaign_150423;24.04.2015 3:28;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";435ddd6bae@somedomain.com
+63;24.04.2015;RU;campaign_150423;24.04.2015 3:28;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e844b4437b@somedomain.com
+64;24.04.2015;RU;campaign_150423;24.04.2015 3:28;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";79a741bd40@somedomain.com
+65;24.04.2015;RU;campaign_150423;24.04.2015 3:29;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko)";49c2041411@somedomain.com
+66;24.04.2015;RU;campaign_150423;24.04.2015 3:29;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";8a146bcecf@somedomain.com
+67;24.04.2015;RU;campaign_150423;24.04.2015 3:29;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";8a146bcecf@somedomain.com
+68;24.04.2015;RU;campaign_150423;24.04.2015 3:30;Android;mobile;"Mozilla/5.0 (Linux; Android 5.1; Nexus 4 Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.129 Mobile Safari/537.36";9627b39919@somedomain.com
+69;24.04.2015;RU;campaign_20140508_0650;24.04.2015 3:30;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.6.0";63a8b9edaf@somedomain.com
+70;24.04.2015;RU;campaign_150423;24.04.2015 3:31;Android;tablet;"Mozilla/5.0 (Linux; Android 4.4.2; SM-T705 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 YaBrowser/15.2.2214.3725.01 Safari/537.36";ecfcc74f88@somedomain.com
+71;24.04.2015;RU;campaign_150423;24.04.2015 3:31;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B410";279b14be73@somedomain.com
+72;24.04.2015;RU;campaign_150423;24.04.2015 3:33;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";370780b730@somedomain.com
+73;24.04.2015;RU;campaign_150210;24.04.2015 3:35;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e9888800ab@somedomain.com
+74;24.04.2015;RU;campaign_150423;24.04.2015 3:35;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0752714b5f@somedomain.com
+75;24.04.2015;RU;campaign_150423;24.04.2015 3:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";18a498e2d2@somedomain.com
+76;24.04.2015;RU;campaign_150423;24.04.2015 3:36;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.1; ru-ru; MI 2S Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";19348221b7@somedomain.com
+77;24.04.2015;RU;campaign_150423;24.04.2015 3:36;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.1; ru-ru; MI 2S Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";19348221b7@somedomain.com
+78;24.04.2015;RU;campaign_150423;24.04.2015 3:37;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4548561ccf@somedomain.com
+79;24.04.2015;RU;campaign_150423;24.04.2015 3:37;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";abc56acf9d@somedomain.com
+80;24.04.2015;RU;campaign_150423;24.04.2015 3:37;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4548561ccf@somedomain.com
+81;24.04.2015;RU;campaign_150423;24.04.2015 3:37;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";2e0eac6d8e@somedomain.com
+82;24.04.2015;RU;campaign_150423;24.04.2015 3:37;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";abc56acf9d@somedomain.com
+83;24.04.2015;RU;campaign_150423;24.04.2015 3:38;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6bd800c4ec@somedomain.com
+84;24.04.2015;RU;campaign_150423;24.04.2015 3:38;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0; SM-N900 Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";f33fbcbe32@somedomain.com
+85;24.04.2015;RU;campaign_150423;24.04.2015 3:40;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";78d94e9fb2@somedomain.com
+86;24.04.2015;AM;campaign_150423;24.04.2015 3:40;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";77c38afb50@somedomain.com
+87;24.04.2015;RU;campaign_150423;24.04.2015 3:41;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";fa7fe54aca@somedomain.com
+88;24.04.2015;RU;campaign_150423;24.04.2015 3:41;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko)";fe7588d288@somedomain.com
+89;24.04.2015;RU;campaign_150423;24.04.2015 3:41;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";764ed035c6@somedomain.com
+90;24.04.2015;RU;campaign_150423;24.04.2015 3:42;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1261005ebb@somedomain.com
+91;24.04.2015;RU;campaign_150423;24.04.2015 3:42;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";2b9ad2451f@somedomain.com
+92;24.04.2015;RU;campaign_150218_1;24.04.2015 3:44;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";069ca41a53@somedomain.com
+93;24.04.2015;RU;campaign_150420;24.04.2015 3:44;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";8020a53e65@somedomain.com
+94;24.04.2015;RU;campaign_150219;24.04.2015 3:44;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";069ca41a53@somedomain.com
+95;24.04.2015;RU;campaign_150423;24.04.2015 3:44;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c10bfc7b55@somedomain.com
+96;24.04.2015;RU;campaign_150423;24.04.2015 3:44;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";159abf052b@somedomain.com
+97;24.04.2015;RU;campaign_150423;24.04.2015 3:44;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f9f519e68b@somedomain.com
+98;24.04.2015;RU;campaign_150423;24.04.2015 3:44;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";9aaec2ff47@somedomain.com
+99;24.04.2015;RU;campaign_150423;24.04.2015 3:45;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; InfoPath.2; .NET4.0C; .NET4.0E; MSOffice 12)";220873d21f@somedomain.com
+100;24.04.2015;RU;campaign_150420;24.04.2015 3:46;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";58fed5d40d@somedomain.com
+101;24.04.2015;RU;campaign_150423;24.04.2015 3:46;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";58fed5d40d@somedomain.com
+102;24.04.2015;RU;campaign_150423;24.04.2015 3:47;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a88c0de9a4@somedomain.com
+103;24.04.2015;RU;campaign_150423;24.04.2015 3:47;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4";0097b3eba7@somedomain.com
+104;24.04.2015;RU;campaign_150423;24.04.2015 3:48;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";3b10362e12@somedomain.com
+105;24.04.2015;RU;campaign_150423;24.04.2015 3:48;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";9f6d2ad0cf@somedomain.com
+106;24.04.2015;RU;campaign_150423;24.04.2015 3:48;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; GT-I9100 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";0a44a72ba1@somedomain.com
+107;24.04.2015;RU;campaign_150423;24.04.2015 3:49;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";46d550eb98@somedomain.com
+108;24.04.2015;RU;campaign_150420;24.04.2015 3:49;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";78d94e9fb2@somedomain.com
+109;24.04.2015;RU;campaign_150423;24.04.2015 3:49;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";46d550eb98@somedomain.com
+110;24.04.2015;RU;campaign_150423;24.04.2015 3:50;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";25af090435@somedomain.com
+111;24.04.2015;US;campaign_150423;24.04.2015 3:51;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/536.30.1 (KHTML, like Gecko)";4e43e0a2cb@somedomain.com
+112;24.04.2015;RU;campaign_150423;24.04.2015 3:52;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0; YD201 Build/LRX21M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36";d9eeab6a1a@somedomain.com
+113;24.04.2015;RU;campaign_150423;24.04.2015 3:52;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";567e7837f9@somedomain.com
+114;24.04.2015;US;campaign_150423;24.04.2015 3:53;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";1029f79ca0@somedomain.com
+115;24.04.2015;RO;campaign_150423;24.04.2015 3:55;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; BRI/2)";1ba7b944fa@somedomain.com
+116;24.04.2015;RU;campaign_150423;24.04.2015 3:55;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";71ad823eb8@somedomain.com
+117;24.04.2015;RU;campaign_150423;24.04.2015 3:56;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f515648ebf@somedomain.com
+118;24.04.2015;RU;campaign_150423;24.04.2015 3:56;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53";652bfd96aa@somedomain.com
+119;24.04.2015;RU;campaign_150423;24.04.2015 3:57;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201";b129948345@somedomain.com
+120;24.04.2015;RU;campaign_150423;24.04.2015 3:57;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";a99db8c3fd@somedomain.com
+121;24.04.2015;RU;campaign_150423;24.04.2015 3:58;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a";ee6eecff68@somedomain.com
+122;24.04.2015;CO;campaign_150423;24.04.2015 3:59;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko)";e44c236ede@somedomain.com
+123;24.04.2015;RU;campaign_150423;24.04.2015 3:59;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";464b4e77cd@somedomain.com
+124;24.04.2015;RU;campaign_150423;24.04.2015 4:00;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";e2513b6750@somedomain.com
+125;24.04.2015;RU;campaign_150423;24.04.2015 4:00;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";12ed1ff1f0@somedomain.com
+126;24.04.2015;RU;campaign_150423;24.04.2015 4:00;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";9855877357@somedomain.com
+127;24.04.2015;RU;campaign_150423;24.04.2015 4:00;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8b9fc0d6b8@somedomain.com
+128;24.04.2015;RU;campaign_150423;24.04.2015 4:01;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4e8b01f517@somedomain.com
+129;24.04.2015;RU;campaign_150423;24.04.2015 4:01;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8a7fbbb0d0@somedomain.com
+130;24.04.2015;RU;campaign_150423;24.04.2015 4:03;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";f5a77fd2af@somedomain.com
+131;24.04.2015;RU;campaign_150420;24.04.2015 4:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";fb268031d7@somedomain.com
+132;24.04.2015;RU;campaign_150423;24.04.2015 4:03;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";cf82fa7f5e@somedomain.com
+133;24.04.2015;RU;campaign_150423;24.04.2015 4:04;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0; SM-G900F Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";c9b004a953@somedomain.com
+134;24.04.2015;RU;campaign_150423;24.04.2015 4:04;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508";b256d135a7@somedomain.com
+135;24.04.2015;RU;campaign_150423;24.04.2015 4:05;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d0ec897ea1@somedomain.com
+136;24.04.2015;RU;campaign_150423;24.04.2015 4:05;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";1afc07b9fa@somedomain.com
+137;24.04.2015;RU;campaign_150423;24.04.2015 4:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";79c803cab9@somedomain.com
+138;24.04.2015;RU;campaign_150423;24.04.2015 4:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";79c803cab9@somedomain.com
+139;24.04.2015;RU;campaign_150423;24.04.2015 4:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";edfaaeb685@somedomain.com
+140;24.04.2015;RU;campaign_150423;24.04.2015 4:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8928f5672a@somedomain.com
+141;24.04.2015;RU;campaign_141225;24.04.2015 4:07;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329";461d44a469@somedomain.com
+142;24.04.2015;RU;campaign_150423;24.04.2015 4:10;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b105e8c087@somedomain.com
+143;24.04.2015;SG;campaign_150423;24.04.2015 4:10;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; MALN; .NET4.0E; InfoPath.3)";b224dc68de@somedomain.com
+144;24.04.2015;RU;campaign_150423;24.04.2015 4:10;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.4; SM-A300F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36";7650c18f94@somedomain.com
+145;24.04.2015;RU;campaign_150423;24.04.2015 4:10;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";025d77faeb@somedomain.com
+146;24.04.2015;RU;campaign_150423;24.04.2015 4:10;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a76df28791@somedomain.com
+147;24.04.2015;RU;campaign_150423;24.04.2015 4:12;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B440";9e6381dfc9@somedomain.com
+148;24.04.2015;US;campaign_150423;24.04.2015 4:12;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";367c827cf1@somedomain.com
+149;24.04.2015;RU;campaign_150423;24.04.2015 4:13;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0; SM-N900 Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.129 Mobile Safari/537.36";895c6b6290@somedomain.com
+150;24.04.2015;GB;campaign_150423;24.04.2015 4:13;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";08da13350e@somedomain.com
+151;24.04.2015;US;campaign_150416;24.04.2015 4:13;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";b25593c6a7@somedomain.com
+152;24.04.2015;US;campaign_150416;24.04.2015 4:13;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";b25593c6a7@somedomain.com
+153;24.04.2015;US;campaign_150416;24.04.2015 4:13;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";b25593c6a7@somedomain.com
+154;24.04.2015;RU;campaign_150423;24.04.2015 4:14;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; ST26i Build/11.2.A.0.31) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";e0030581d8@somedomain.com
+155;24.04.2015;RU;campaign_150423;24.04.2015 4:15;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; GT-I9100 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";7a2a39cb3b@somedomain.com
+156;24.04.2015;RU;campaign_150423;24.04.2015 4:15;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; GT-I9100 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";7a2a39cb3b@somedomain.com
+157;24.04.2015;RU;campaign_150423;24.04.2015 4:15;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";43eeff1264@somedomain.com
+158;24.04.2015;RU;campaign_150423;24.04.2015 4:16;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36 OPR/28.0.1750.51";41a8a36319@somedomain.com
+159;24.04.2015;RU;campaign_150423;24.04.2015 4:16;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";56f704b1d7@somedomain.com
+160;24.04.2015;RU;campaign_150423;24.04.2015 4:16;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/12B410 Safari/600.1.4";1f12d14b07@somedomain.com
+161;24.04.2015;RU;campaign_150423;24.04.2015 4:17;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";7c7c4f4f18@somedomain.com
+162;24.04.2015;RU;campaign_150423;24.04.2015 4:17;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; LCJB; MSAppHost/2.0; rv:11.0) like Gecko";fc5702f21e@somedomain.com
+163;24.04.2015;RU;campaign_150423;24.04.2015 4:18;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";0b8217130a@somedomain.com
+164;24.04.2015;RU;campaign_150423;24.04.2015 4:18;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";492afeda15@somedomain.com
+165;24.04.2015;RU;campaign_150423;24.04.2015 4:19;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";5588dca3af@somedomain.com
+166;24.04.2015;RU;campaign_150423;24.04.2015 4:19;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a81ddab878@somedomain.com
+167;24.04.2015;RU;campaign_150423;24.04.2015 4:19;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";8d989d4849@somedomain.com
+168;24.04.2015;RU;campaign_150423;24.04.2015 4:21;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25";8d7a8d9cf2@somedomain.com
+169;24.04.2015;RU;campaign_150423;24.04.2015 4:21;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";678d414f28@somedomain.com
+170;24.04.2015;RU;campaign_150423;24.04.2015 4:22;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b376995176@somedomain.com
+171;24.04.2015;US;campaign_150423;24.04.2015 4:22;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";793eabf54d@somedomain.com
+172;24.04.2015;RU;campaign_150423;24.04.2015 4:23;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3262c36686@somedomain.com
+173;24.04.2015;CN;campaign_150423;24.04.2015 4:24;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";bc6f40ab35@somedomain.com
+174;24.04.2015;RU;campaign_150423;24.04.2015 4:27;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";40f6ac5276@somedomain.com
+175;24.04.2015;RU;campaign_150423;24.04.2015 4:27;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";5e131fda18@somedomain.com
+176;24.04.2015;RU;campaign_150423;24.04.2015 4:27;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";1c2c9767ca@somedomain.com
+177;24.04.2015;RU;campaign_150423;24.04.2015 4:28;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b106b595d4@somedomain.com
+178;24.04.2015;RU;campaign_150423;24.04.2015 4:29;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";37fdaf5924@somedomain.com
+179;24.04.2015;CN;campaign_150423;24.04.2015 4:29;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";977561fa91@somedomain.com
+180;24.04.2015;RU;campaign_150423;24.04.2015 4:29;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 YaBrowser/15.2.2214.3645 Safari/537.36";31a85ab60f@somedomain.com
+181;24.04.2015;CN;campaign_150423;24.04.2015 4:30;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";4f69092a60@somedomain.com
+182;24.04.2015;RU;campaign_150423;24.04.2015 4:30;Windows;desktop;"Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)";b0371584d5@somedomain.com
+183;24.04.2015;RU;campaign_150423;24.04.2015 4:31;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";63e897bad8@somedomain.com
+184;24.04.2015;RU;campaign_150423;24.04.2015 4:31;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";81301136c2@somedomain.com
+185;24.04.2015;RU;campaign_150423;24.04.2015 4:31;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";66efe7b720@somedomain.com
+186;24.04.2015;RU;campaign_150423;24.04.2015 4:31;Android;tablet;"Opera/9.80 (Android; Opera Mini/6.1.25655/36.1719; U; ru) Presto/2.12.423 Version/12.16";04b562b1f7@somedomain.com
+187;24.04.2015;RU;campaign_150423;24.04.2015 4:33;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a0f4e6f5bc@somedomain.com
+188;24.04.2015;RU;campaign_150423;24.04.2015 4:33;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e357235228@somedomain.com
+189;24.04.2015;RU;campaign_150423;24.04.2015 4:33;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";b82191e88b@somedomain.com
+190;24.04.2015;RU;campaign_150423;24.04.2015 4:33;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; .NET CLR 1.1.4322)";b175fad6d3@somedomain.com
+191;24.04.2015;RU;campaign_150416;24.04.2015 4:33;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";03c5439ab4@somedomain.com
+192;24.04.2015;US;campaign_150423;24.04.2015 4:34;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B410";a5a535d75c@somedomain.com
+193;24.04.2015;RU;campaign_150423;24.04.2015 4:34;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";bff76469e4@somedomain.com
+194;24.04.2015;RU;campaign_150423;24.04.2015 4:34;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";53caf158da@somedomain.com
+195;24.04.2015;RU;campaign_150423;24.04.2015 4:34;Symbian OS;mobile;"Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/025.007; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.37 Mobile Safari/533.4 3gpp-gba";02f0653908@somedomain.com
+196;24.04.2015;IL;campaign_150423;24.04.2015 4:35;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/536.30.1 (KHTML, like Gecko)";25e9393dbf@somedomain.com
+197;24.04.2015;RU;campaign_150423;24.04.2015 4:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";31b80f5dd4@somedomain.com
+198;24.04.2015;RU;campaign_150423;24.04.2015 4:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";9f6f82a952@somedomain.com
+199;24.04.2015;RU;campaign_150423;24.04.2015 4:36;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4";6fd03d7341@somedomain.com
+200;24.04.2015;CN;campaign_150423;24.04.2015 4:37;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";e3ae62f252@somedomain.com
+201;24.04.2015;RU;campaign_150402;24.04.2015 4:37;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";b82191e88b@somedomain.com
+202;24.04.2015;RU;campaign_150423;24.04.2015 4:37;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";5b934687a1@somedomain.com
+203;24.04.2015;RU;campaign_150423;24.04.2015 4:37;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";03c5439ab4@somedomain.com
+204;24.04.2015;RU;campaign_150423;24.04.2015 4:37;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";03c5439ab4@somedomain.com
+205;24.04.2015;RU;campaign_150423;24.04.2015 4:37;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0c3f3cf14a@somedomain.com
+206;24.04.2015;RU;campaign_150423;24.04.2015 4:38;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";d9f9de0523@somedomain.com
+207;24.04.2015;RU;campaign_150420;24.04.2015 4:38;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4";6fd03d7341@somedomain.com
+208;24.04.2015;EU;campaign_150423;24.04.2015 4:38;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";83b45185c6@somedomain.com
+209;24.04.2015;RU;campaign_150423;24.04.2015 4:38;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; InfoPath.2; .NET4.0C; .NET4.0E; MSOffice 12)";220873d21f@somedomain.com
+210;24.04.2015;RU;campaign_150423;24.04.2015 4:38;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f447238f91@somedomain.com
+211;24.04.2015;RU;campaign_150423;24.04.2015 4:39;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";ee6c0ad25d@somedomain.com
+212;24.04.2015;RU;campaign_150423;24.04.2015 4:40;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";ee6c0ad25d@somedomain.com
+213;24.04.2015;RU;campaign_150423;24.04.2015 4:41;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.2; GT-I9190 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.109 Mobile Safari/537.36";8d0ce5458b@somedomain.com
+214;24.04.2015;RU;campaign_150423;24.04.2015 4:41;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)";7a0d56f03e@somedomain.com
+215;24.04.2015;RU;campaign_150423;24.04.2015 4:41;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";580a47f955@somedomain.com
+216;24.04.2015;RU;campaign_150423;24.04.2015 4:42;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";5cfdefaa06@somedomain.com
+217;24.04.2015;RU;campaign_150423;24.04.2015 4:42;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";580a47f955@somedomain.com
+218;24.04.2015;US;campaign_150423;24.04.2015 4:42;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";944e66063f@somedomain.com
+219;24.04.2015;RU;campaign_150423;24.04.2015 4:42;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)";7a0d56f03e@somedomain.com
+220;24.04.2015;RU;campaign_150423;24.04.2015 4:42;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";bfd69b3ffa@somedomain.com
+221;24.04.2015;RU;campaign_150423;24.04.2015 4:43;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";7643e155d3@somedomain.com
+222;24.04.2015;RU;campaign_150423;24.04.2015 4:44;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";1a879d78bc@somedomain.com
+223;24.04.2015;RU;campaign_150423;24.04.2015 4:44;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";c749c58235@somedomain.com
+224;24.04.2015;RU;campaign_150423;24.04.2015 4:44;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";881a523e61@somedomain.com
+225;24.04.2015;RU;campaign_150423;24.04.2015 4:45;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";78c3befbc6@somedomain.com
+226;24.04.2015;RU;campaign_150423;24.04.2015 4:45;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4";e71ddbc4d7@somedomain.com
+227;24.04.2015;RU;campaign_150423;24.04.2015 4:45;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";48f21a9c27@somedomain.com
+228;24.04.2015;RU;campaign_150423;24.04.2015 4:45;Linux;desktop;"Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36";a419c8a29f@somedomain.com
+229;24.04.2015;KR;campaign_150423;24.04.2015 4:46;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";02f16c7e1d@somedomain.com
+230;24.04.2015;RU;campaign_150423;24.04.2015 4:46;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d4b93270f5@somedomain.com
+231;24.04.2015;RU;campaign_150423;24.04.2015 4:46;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";509f624889@somedomain.com
+232;24.04.2015;RU;campaign_150423;24.04.2015 4:46;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";5cfdefaa06@somedomain.com
+233;24.04.2015;RU;campaign_150423;24.04.2015 4:46;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4bd4fbcc4f@somedomain.com
+234;24.04.2015;RU;campaign_150423;24.04.2015 4:46;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c8a89773d3@somedomain.com
+235;24.04.2015;RU;campaign_150423;24.04.2015 4:47;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";451096a6f5@somedomain.com
+236;24.04.2015;US;campaign_150423;24.04.2015 4:47;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko";a4caf6a297@somedomain.com
+237;24.04.2015;RU;campaign_150423;24.04.2015 4:49;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI G6-U10 Build/HuaweiG6-U10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";779d34192f@somedomain.com
+238;24.04.2015;RU;campaign_150423;24.04.2015 4:49;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";ec27953b83@somedomain.com
+239;24.04.2015;RU;campaign_150420;24.04.2015 4:50;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";5cfdefaa06@somedomain.com
+240;24.04.2015;RU;campaign_150423;24.04.2015 4:50;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";ca19691086@somedomain.com
+241;24.04.2015;RU;campaign_150416;24.04.2015 4:51;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";aee99a3ed9@somedomain.com
+242;24.04.2015;RU;campaign_150423;24.04.2015 4:51;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b9cc53be02@somedomain.com
+243;24.04.2015;RU;campaign_150423;24.04.2015 4:52;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";be26178b7f@somedomain.com
+244;24.04.2015;RU;campaign_150420;24.04.2015 4:52;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.2; ZTE V815W Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.92 Mobile Safari/537.36";e8d92d849d@somedomain.com
+245;24.04.2015;RU;campaign_150423;24.04.2015 4:52;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";2f298bacd6@somedomain.com
+246;24.04.2015;RU;campaign_150423;24.04.2015 4:53;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3da4dc3f2e@somedomain.com
+247;24.04.2015;RU;campaign_150423;24.04.2015 4:54;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b8babe5fcd@somedomain.com
+248;24.04.2015;RU;campaign_150423;24.04.2015 4:54;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";717c71db25@somedomain.com
+249;24.04.2015;RU;campaign_150423;24.04.2015 4:54;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b8babe5fcd@somedomain.com
+250;24.04.2015;RU;campaign_150423;24.04.2015 4:54;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b8babe5fcd@somedomain.com
+251;24.04.2015;RU;campaign_150423;24.04.2015 4:54;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";48fc1c7363@somedomain.com
+252;24.04.2015;RU;campaign_150423;24.04.2015 4:55;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";fb93ce8a59@somedomain.com
+253;24.04.2015;RU;campaign_150423;24.04.2015 4:56;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B440";690ba885c7@somedomain.com
+254;24.04.2015;US;campaign_150423;24.04.2015 4:56;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";2668d0e260@somedomain.com
+255;24.04.2015;RU;campaign_150423;24.04.2015 4:56;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";de81acf6f1@somedomain.com
+256;24.04.2015;RU;campaign_150423;24.04.2015 4:56;Android;tablet;"Mozilla/5.0 (Linux; U; Android 4.2.2; ru-ru; A1-810 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30";2fe6a1e25e@somedomain.com
+257;24.04.2015;RU;campaign_150423;24.04.2015 4:56;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";fb02cddcc1@somedomain.com
+258;24.04.2015;RU;campaign_150423;24.04.2015 4:57;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a15a14b951@somedomain.com
+259;24.04.2015;RU;campaign_150423;24.04.2015 4:57;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4";9946a95c05@somedomain.com
+260;24.04.2015;RU;campaign_150423;24.04.2015 4:57;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";94d9c471ac@somedomain.com
+261;24.04.2015;RU;campaign_150423;24.04.2015 4:57;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G800F Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";a8300b2beb@somedomain.com
+262;24.04.2015;RU;campaign_150423;24.04.2015 4:57;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G800F Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";a8300b2beb@somedomain.com
+263;24.04.2015;RU;campaign_150312;24.04.2015 4:57;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";fa732cc0f2@somedomain.com
+264;24.04.2015;RU;campaign_150423;24.04.2015 4:58;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b6aa2e7354@somedomain.com
+265;24.04.2015;RU;campaign_150423;24.04.2015 4:59;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";cec056f376@somedomain.com
+266;24.04.2015;RU;campaign_150409;24.04.2015 4:59;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3097936492@somedomain.com
+267;24.04.2015;RU;campaign_150423;24.04.2015 5:00;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";7e2ca5eada@somedomain.com
+268;24.04.2015;RU;campaign_150423;24.04.2015 5:00;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4d1012f8ef@somedomain.com
+269;24.04.2015;RU;campaign_150423;24.04.2015 5:00;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";af70ad1dd7@somedomain.com
+270;24.04.2015;RU;campaign_150423;24.04.2015 5:00;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";184ab894bd@somedomain.com
+271;24.04.2015;RU;campaign_150423;24.04.2015 5:00;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";cd674635df@somedomain.com
+272;24.04.2015;RU;campaign_150423;24.04.2015 5:01;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6b85b2994d@somedomain.com
+273;24.04.2015;RU;campaign_150423;24.04.2015 5:01;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";232909636a@somedomain.com
+274;24.04.2015;RU;campaign_150423;24.04.2015 5:01;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";655355a46f@somedomain.com
+275;24.04.2015;US;campaign_150423;24.04.2015 5:01;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";94dfc2ffba@somedomain.com
+276;24.04.2015;US;campaign_150423;24.04.2015 5:01;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";94dfc2ffba@somedomain.com
+277;24.04.2015;RU;campaign_150423;24.04.2015 5:01;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";35a8706439@somedomain.com
+278;24.04.2015;RU;campaign_150423;24.04.2015 5:02;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";1a9f15ae9c@somedomain.com
+279;24.04.2015;RU;campaign_150416;24.04.2015 5:03;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167";d2b594ae1c@somedomain.com
+280;24.04.2015;RU;campaign_150423;24.04.2015 5:03;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167";d2b594ae1c@somedomain.com
+281;24.04.2015;RU;campaign_150423;24.04.2015 5:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";30f6057b3b@somedomain.com
+282;24.04.2015;Unknown;campaign_150423;24.04.2015 5:03;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";dd8f50652a@somedomain.com
+283;24.04.2015;US;campaign_150423;24.04.2015 5:03;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";824dc01998@somedomain.com
+284;24.04.2015;RU;campaign_150423;24.04.2015 5:03;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4";b87ff72d6b@somedomain.com
+285;24.04.2015;RU;campaign_150423;24.04.2015 5:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";7291b59473@somedomain.com
+286;24.04.2015;RU;campaign_150423;24.04.2015 5:03;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";ed7d27a725@somedomain.com
+287;24.04.2015;RU;campaign_150423;24.04.2015 5:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3b30ac1371@somedomain.com
+288;24.04.2015;RU;campaign_150423;24.04.2015 5:04;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3097936492@somedomain.com
+289;24.04.2015;RU;campaign_150423;24.04.2015 5:05;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";1162763235@somedomain.com
+290;24.04.2015;RU;campaign_150423;24.04.2015 5:05;Windows;desktop;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36;fea188fd89@somedomain.com
+291;24.04.2015;RU;campaign_150423;24.04.2015 5:05;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";c318e132f5@somedomain.com
+292;24.04.2015;RU;campaign_150423;24.04.2015 5:06;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";c318e132f5@somedomain.com
+293;24.04.2015;RU;campaign_150423;24.04.2015 5:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";5f791504aa@somedomain.com
+294;24.04.2015;RU;campaign_150423;24.04.2015 5:06;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";b00ac9ed01@somedomain.com
+295;24.04.2015;RU;campaign_150423;24.04.2015 5:07;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4510b722ee@somedomain.com
+296;24.04.2015;RU;campaign_150423;24.04.2015 5:07;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6f9a6a37d0@somedomain.com
+297;24.04.2015;RU;campaign_150423;24.04.2015 5:07;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";d6d88717aa@somedomain.com
+298;24.04.2015;RU;campaign_150423;24.04.2015 5:07;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";472634e87f@somedomain.com
+299;24.04.2015;RU;campaign_150423;24.04.2015 5:07;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0c0997ddd9@somedomain.com
+300;24.04.2015;RU;campaign_150416;24.04.2015 5:08;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";3fbdc1f4b8@somedomain.com
+301;24.04.2015;RU;campaign_150423;24.04.2015 5:09;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";499433183f@somedomain.com
+302;24.04.2015;RU;campaign_150423;24.04.2015 5:09;Windows;desktop;"Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)";45994b675a@somedomain.com
+303;24.04.2015;US;campaign_150423;24.04.2015 5:09;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";e275c1d9e9@somedomain.com
+304;24.04.2015;RU;campaign_150423;24.04.2015 5:09;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";ac22d4ec37@somedomain.com
+305;24.04.2015;RU;campaign_150423;24.04.2015 5:09;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";2b6dbc19a5@somedomain.com
+306;24.04.2015;RU;campaign_150423;24.04.2015 5:09;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a3c28b4750@somedomain.com
+307;24.04.2015;RU;campaign_150423;24.04.2015 5:10;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.1; ru-ru; HTC_One_S Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";6282121ac3@somedomain.com
+308;24.04.2015;RU;campaign_150423;24.04.2015 5:10;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";f7309a8493@somedomain.com
+309;24.04.2015;US;campaign_150423;24.04.2015 5:11;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";9037068971@somedomain.com
+310;24.04.2015;RU;campaign_150423;24.04.2015 5:12;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";ef04fce1ec@somedomain.com
+311;24.04.2015;RU;campaign_150423;24.04.2015 5:12;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";bd99018d54@somedomain.com
+312;24.04.2015;RU;campaign_150423;24.04.2015 5:13;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";189a39c891@somedomain.com
+313;24.04.2015;RU;campaign_150423;24.04.2015 5:14;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6e7f6823ce@somedomain.com
+314;24.04.2015;RU;campaign_150423;24.04.2015 5:14;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6e7f6823ce@somedomain.com
+315;24.04.2015;RU;campaign_150423;24.04.2015 5:14;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6e7f6823ce@somedomain.com
+316;24.04.2015;RU;campaign_150423;24.04.2015 5:14;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";65bda2feeb@somedomain.com
+317;24.04.2015;RU;campaign_150423;24.04.2015 5:14;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";fac2683c9c@somedomain.com
+318;24.04.2015;RU;campaign_150423;24.04.2015 5:15;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c70f96da9b@somedomain.com
+319;24.04.2015;RU;campaign_150423;24.04.2015 5:15;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";89f52300d7@somedomain.com
+320;24.04.2015;RU;campaign_150423;24.04.2015 5:15;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";0dcf596934@somedomain.com
+321;24.04.2015;RO;campaign_150416;24.04.2015 5:16;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";7ca381378f@somedomain.com
+322;24.04.2015;RU;campaign_150423;24.04.2015 5:16;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";ff6c6832c2@somedomain.com
+323;24.04.2015;RU;campaign_150420;24.04.2015 5:16;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12A365";dc61596bd6@somedomain.com
+324;24.04.2015;RU;campaign_150423;24.04.2015 5:16;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a16069c24e@somedomain.com
+325;24.04.2015;RU;campaign_150423;24.04.2015 5:17;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";bb0ecb0470@somedomain.com
+326;24.04.2015;RU;campaign_150423;24.04.2015 5:18;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12A365";dc61596bd6@somedomain.com
+327;24.04.2015;RU;campaign_150423;24.04.2015 5:18;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";73a2d3c9d5@somedomain.com
+328;24.04.2015;RU;campaign_150423;24.04.2015 5:19;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";49c13ec7c0@somedomain.com
+329;24.04.2015;RU;campaign_150423;24.04.2015 5:19;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a";f3149ff468@somedomain.com
+330;24.04.2015;RU;campaign_150423;24.04.2015 5:20;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:31.0) Gecko/20100101 Thunderbird/31.6.0";719230d4ee@somedomain.com
+331;24.04.2015;RU;campaign_150423;24.04.2015 5:21;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";79bc61a6a3@somedomain.com
+332;24.04.2015;RU;campaign_150423;24.04.2015 5:21;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";54b32996c0@somedomain.com
+333;24.04.2015;RU;campaign_150423;24.04.2015 5:21;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";54b32996c0@somedomain.com
+334;24.04.2015;RU;campaign_150423;24.04.2015 5:21;Android;mobile;"Mozilla/5.0 (Linux; Android 4.1.1; HTC Desire X Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36";35f641808e@somedomain.com
+335;24.04.2015;RU;campaign_150423;24.04.2015 5:22;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6c43e02fd7@somedomain.com
+336;24.04.2015;RU;campaign_150423;24.04.2015 5:22;Windows;desktop;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36;88fe8c5ec1@somedomain.com
+337;24.04.2015;RU;campaign_150423;24.04.2015 5:23;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";42009af038@somedomain.com
+338;24.04.2015;RU;campaign_150423;24.04.2015 5:23;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6bfe4099ac@somedomain.com
+339;24.04.2015;RU;campaign_150423;24.04.2015 5:23;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B440";4ae6ada200@somedomain.com
+340;24.04.2015;RU;campaign_150423;24.04.2015 5:23;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";99c611139e@somedomain.com
+341;24.04.2015;RU;campaign_150423;24.04.2015 5:23;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8302b766f3@somedomain.com
+342;24.04.2015;RU;campaign_150423;24.04.2015 5:24;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; WebMoney Advisor; Microsoft Outlook 14.0.7147; ms-office; MSOffice 14)";898b9b59b2@somedomain.com
+343;24.04.2015;RU;campaign_150423;24.04.2015 5:24;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";677363fc5d@somedomain.com
+344;24.04.2015;RU;campaign_150423;24.04.2015 5:25;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";01a6c31555@somedomain.com
+345;24.04.2015;RU;campaign_150423;24.04.2015 5:25;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8c62d3407f@somedomain.com
+346;24.04.2015;RU;campaign_150423;24.04.2015 5:25;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";ebad663803@somedomain.com
+347;24.04.2015;RU;campaign_150423;24.04.2015 5:25;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";8be389b11e@somedomain.com
+348;24.04.2015;RU;campaign_150423;24.04.2015 5:26;Windows;desktop;"Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MAFSJS)";0e59647cd3@somedomain.com
+349;24.04.2015;RU;campaign_150423;24.04.2015 5:26;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";e28d0fa085@somedomain.com
+350;24.04.2015;RU;campaign_150423;24.04.2015 5:26;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";22ca3bed12@somedomain.com
+351;24.04.2015;RU;campaign_150423;24.04.2015 5:27;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4";5f1846d5ec@somedomain.com
+352;24.04.2015;RU;campaign_150423;24.04.2015 5:27;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c207825b38@somedomain.com
+353;24.04.2015;RU;campaign_150423;24.04.2015 5:27;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";5cd6203139@somedomain.com
+354;24.04.2015;RU;campaign_150423;24.04.2015 5:27;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";398baa9714@somedomain.com
+355;24.04.2015;RU;campaign_150423;24.04.2015 5:27;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";8be389b11e@somedomain.com
+356;24.04.2015;RU;campaign_150423;24.04.2015 5:27;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0ac957255d@somedomain.com
+357;24.04.2015;RU;campaign_150423;24.04.2015 5:28;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4";2896fbbbaf@somedomain.com
+358;24.04.2015;RU;campaign_141225;24.04.2015 5:28;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";30f6057b3b@somedomain.com
+359;24.04.2015;RU;campaign_150423;24.04.2015 5:28;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d65fda6f59@somedomain.com
+360;24.04.2015;RU;campaign_150423;24.04.2015 5:28;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d068b61567@somedomain.com
+361;24.04.2015;RU;campaign_150423;24.04.2015 5:28;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B436";a0f580300f@somedomain.com
+362;24.04.2015;RU;campaign_150423;24.04.2015 5:29;Windows;desktop;Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36;4a599d18ff@somedomain.com
+363;24.04.2015;RU;campaign_150423;24.04.2015 5:29;unknown;unknown;thebat.exedwnloadmnger;4ee93fa70a@somedomain.com
+364;24.04.2015;RU;campaign_150423;24.04.2015 5:29;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";0739ee579e@somedomain.com
+365;24.04.2015;RU;campaign_150423;24.04.2015 5:30;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";1ec630717e@somedomain.com
+366;24.04.2015;GB;campaign_150416;24.04.2015 5:30;iOS;mobile;"Mozilla/5.0 (iPod; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B500";ba06266e9b@somedomain.com
+367;24.04.2015;RU;campaign_150423;24.04.2015 5:31;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";1ec630717e@somedomain.com
+368;24.04.2015;RU;campaign_150423;24.04.2015 5:31;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c98aba85e4@somedomain.com
+369;24.04.2015;RU;campaign_150423;24.04.2015 5:31;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) YaBrowser/15.4.2272.2750.10 Mobile/11D257 Safari/9537.53";01d8b24f62@somedomain.com
+370;24.04.2015;RU;campaign_150423;24.04.2015 5:31;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";b21451a34c@somedomain.com
+371;24.04.2015;RU;campaign_150423;24.04.2015 5:32;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12A405";41042bdf23@somedomain.com
+372;24.04.2015;RU;campaign_150423;24.04.2015 5:32;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.6.0";0aa3c54ea9@somedomain.com
+373;24.04.2015;RU;campaign_150423;24.04.2015 5:32;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";00e0fc6b46@somedomain.com
+374;24.04.2015;RU;campaign_150423;24.04.2015 5:33;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d65fda6f59@somedomain.com
+375;24.04.2015;RU;campaign_150423;24.04.2015 5:33;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0ac957255d@somedomain.com
+376;24.04.2015;RU;campaign_150423;24.04.2015 5:33;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";afceea66a7@somedomain.com
+377;24.04.2015;RU;campaign_150423;24.04.2015 5:34;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; LG-D410 Build/KOT49I.A1415161166) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";5b7e55909f@somedomain.com
+378;24.04.2015;US;campaign_150423;24.04.2015 5:34;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";65a4d9ae0f@somedomain.com
+379;24.04.2015;US;campaign_150423;24.04.2015 5:34;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";65a4d9ae0f@somedomain.com
+380;24.04.2015;RU;campaign_150423;24.04.2015 5:34;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:34.0) Gecko/20100101 Firefox/34.0";2e217f6d58@somedomain.com
+381;24.04.2015;RU;campaign_150423;24.04.2015 5:34;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508";1326b713ad@somedomain.com
+382;24.04.2015;RU;campaign_150423;24.04.2015 5:34;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329";ebe4edff08@somedomain.com
+383;24.04.2015;RU;campaign_150423;24.04.2015 5:35;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";86fb17fbf0@somedomain.com
+384;24.04.2015;RU;campaign_150413;24.04.2015 5:35;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329";ebe4edff08@somedomain.com
+385;24.04.2015;RU;campaign_150423;24.04.2015 5:35;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";783d6536a5@somedomain.com
+386;24.04.2015;RU;campaign_150420;24.04.2015 5:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4dc765e902@somedomain.com
+387;24.04.2015;RU;campaign_150423;24.04.2015 5:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b70373eae1@somedomain.com
+388;24.04.2015;RU;campaign_150423;24.04.2015 5:36;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; LG-D618 Build/KOT49I.A1417588149) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";eb3f42733a@somedomain.com
+389;24.04.2015;RU;campaign_150423;24.04.2015 5:36;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";83b552290f@somedomain.com
+390;24.04.2015;RU;campaign_150423;24.04.2015 5:36;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";2494cc2e1d@somedomain.com
+391;24.04.2015;RU;campaign_150423;24.04.2015 5:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4dc765e902@somedomain.com
+392;24.04.2015;RU;campaign_150423;24.04.2015 5:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0a3eb3b97a@somedomain.com
+393;24.04.2015;RU;campaign_150423;24.04.2015 5:36;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; LT26w Build/6.2.B.1.96) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";d55a5a3230@somedomain.com
+394;24.04.2015;RU;campaign_150416;24.04.2015 5:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3442dbf07c@somedomain.com
+395;24.04.2015;RU;campaign_150423;24.04.2015 5:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";9ec7e94e5b@somedomain.com
+396;24.04.2015;RU;campaign_150420;24.04.2015 5:36;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; LT26w Build/6.2.B.1.96) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";d55a5a3230@somedomain.com
+397;24.04.2015;RU;campaign_150423;24.04.2015 5:38;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";5dd32ee9d2@somedomain.com
+398;24.04.2015;RU;campaign_150423;24.04.2015 5:38;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";eeab948fce@somedomain.com
+399;24.04.2015;RU;campaign_150423;24.04.2015 5:38;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c32b983b64@somedomain.com
+400;24.04.2015;US;campaign_150423;24.04.2015 5:38;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411";2411aa3174@somedomain.com
+401;24.04.2015;RU;campaign_150423;24.04.2015 5:38;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e2f01660fe@somedomain.com
+402;24.04.2015;RU;campaign_150423;24.04.2015 5:38;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";41008f99ca@somedomain.com
+403;24.04.2015;RU;campaign_150423;24.04.2015 5:39;Android;tablet;"Mozilla/5.0 (Linux; Android 4.4.2; SM-T325 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.109 Safari/537.36";090abc3466@somedomain.com
+404;24.04.2015;RU;campaign_150420;24.04.2015 5:39;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411";a3a60c2033@somedomain.com
+405;24.04.2015;RU;campaign_150423;24.04.2015 5:39;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";9896deed76@somedomain.com
+406;24.04.2015;RU;campaign_150423;24.04.2015 5:39;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";6da1899e9e@somedomain.com
+407;24.04.2015;RU;campaign_150423;24.04.2015 5:40;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";c488f6eb95@somedomain.com
+408;24.04.2015;RU;campaign_150423;24.04.2015 5:40;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; WebMoney Advisor; Microsoft Outlook 14.0.7147; ms-office; MSOffice 14)";898b9b59b2@somedomain.com
+409;24.04.2015;US;campaign_150423;24.04.2015 5:40;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";d20f5c7f32@somedomain.com
+410;24.04.2015;MM;campaign_150423;24.04.2015 5:40;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";be68f09948@somedomain.com
+411;24.04.2015;RU;campaign_150423;24.04.2015 5:40;Windows;desktop;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 YaBrowser/15.2.2214.3645 Safari/537.36;ea6b352a88@somedomain.com
+412;24.04.2015;RU;campaign_150423;24.04.2015 5:41;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";9180ffef43@somedomain.com
+413;24.04.2015;RU;campaign_150423;24.04.2015 5:41;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508";d9338c0316@somedomain.com
+414;24.04.2015;RU;campaign_150423;24.04.2015 5:41;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0d18a21a36@somedomain.com
+415;24.04.2015;RU;campaign_150423;24.04.2015 5:41;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";dd56b20ec9@somedomain.com
+416;24.04.2015;RU;campaign_150423;24.04.2015 5:41;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";9180ffef43@somedomain.com
+417;24.04.2015;RU;campaign_150423;24.04.2015 5:41;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";4397213c5b@somedomain.com
+418;24.04.2015;RU;campaign_150423;24.04.2015 5:41;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8779f8dbdb@somedomain.com
+419;24.04.2015;RU;campaign_150423;24.04.2015 5:41;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";5ded458cb9@somedomain.com
+420;24.04.2015;MM;campaign_150423;24.04.2015 5:42;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";be68f09948@somedomain.com
+421;24.04.2015;RU;campaign_150423;24.04.2015 5:42;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4bd4fbcc4f@somedomain.com
+422;24.04.2015;RU;campaign_150423;24.04.2015 5:42;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";e81aaab568@somedomain.com
+423;24.04.2015;RU;campaign_150423;24.04.2015 5:42;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; Trident/7.0; Touch; LCJB; MSAppHost/2.0; rv:11.0) like Gecko";c0bfaca774@somedomain.com
+424;24.04.2015;MM;campaign_150423;24.04.2015 5:43;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";be68f09948@somedomain.com
+425;24.04.2015;RU;campaign_150423;24.04.2015 5:43;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B436";fdecc5c346@somedomain.com
+426;24.04.2015;RU;campaign_150423;24.04.2015 5:43;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";eb1605e330@somedomain.com
+427;24.04.2015;RU;campaign_150423;24.04.2015 5:43;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";42f0128223@somedomain.com
+428;24.04.2015;RU;campaign_150423;24.04.2015 5:43;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.1; GT-I9505 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";6dc82d2504@somedomain.com
+429;24.04.2015;RU;campaign_150423;24.04.2015 5:44;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";96de413ec1@somedomain.com
+430;24.04.2015;RU;campaign_150423;24.04.2015 5:44;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";96de413ec1@somedomain.com
+431;24.04.2015;RU;campaign_150423;24.04.2015 5:44;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";7e2ca5eada@somedomain.com
+432;24.04.2015;RU;campaign_150423;24.04.2015 5:44;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";42f0128223@somedomain.com
+433;24.04.2015;RU;campaign_150423;24.04.2015 5:45;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";0f74bb72fb@somedomain.com
+434;24.04.2015;RU;campaign_150423;24.04.2015 5:45;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";79199e2180@somedomain.com
+435;24.04.2015;US;campaign_150423;24.04.2015 5:45;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B410";a5a535d75c@somedomain.com
+436;24.04.2015;RU;campaign_150423;24.04.2015 5:46;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";967989d27a@somedomain.com
+437;24.04.2015;RU;campaign_150423;24.04.2015 5:46;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/42.0.2311.47 Mobile/12F70 Safari/600.1.4";575f4be476@somedomain.com
+438;24.04.2015;RU;campaign_150423;24.04.2015 5:46;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";540120afe8@somedomain.com
+439;24.04.2015;RU;campaign_150423;24.04.2015 5:46;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";83131da3d0@somedomain.com
+440;24.04.2015;RU;campaign_150423;24.04.2015 5:46;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.2; A0001 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.129 Mobile Safari/537.36";f6009d0fc1@somedomain.com
+441;24.04.2015;RU;campaign_150423;24.04.2015 5:47;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e27b04ff4e@somedomain.com
+442;24.04.2015;US;campaign_150423;24.04.2015 5:47;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";94f51d6fac@somedomain.com
+443;24.04.2015;RU;campaign_150416;24.04.2015 5:47;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";83131da3d0@somedomain.com
+444;24.04.2015;US;campaign_150423;24.04.2015 5:47;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";94f51d6fac@somedomain.com
+445;24.04.2015;RU;campaign_150423;24.04.2015 5:47;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";63621ad961@somedomain.com
+446;24.04.2015;US;campaign_150420;24.04.2015 5:47;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";3578e7d0e7@somedomain.com
+447;24.04.2015;RU;campaign_150423;24.04.2015 5:47;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4";6be6b86b0a@somedomain.com
+448;24.04.2015;RU;campaign_150423;24.04.2015 5:47;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.4; C6603 Build/10.5.1.A.0.292) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36";df454dceee@somedomain.com
+449;24.04.2015;US;campaign_150423;24.04.2015 5:47;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";94f51d6fac@somedomain.com
+450;24.04.2015;RU;campaign_150416;24.04.2015 5:48;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b51238fcc9@somedomain.com
+451;24.04.2015;RU;campaign_150423;24.04.2015 5:48;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b51238fcc9@somedomain.com
+452;24.04.2015;RU;campaign_150423;24.04.2015 5:48;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b085f245d7@somedomain.com
+453;24.04.2015;RU;campaign_150423;24.04.2015 5:48;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";652e24d03a@somedomain.com
+454;24.04.2015;RU;campaign_150423;24.04.2015 5:48;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d2330ceecc@somedomain.com
+455;24.04.2015;RU;campaign_150423;24.04.2015 5:48;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";94a1eaa68a@somedomain.com
+456;24.04.2015;RU;campaign_150423;24.04.2015 5:48;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36 OPR/28.0.1750.48 (Edition Yx)";50fd3727f9@somedomain.com
+457;24.04.2015;RU;campaign_150423;24.04.2015 5:48;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";546eccd874@somedomain.com
+458;24.04.2015;RU;campaign_150423;24.04.2015 5:49;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6dc2226a26@somedomain.com
+459;24.04.2015;RU;campaign_150423;24.04.2015 5:49;Windows;desktop;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 YaBrowser/14.7.1916.15705 Safari/537.36;f38fd36bdf@somedomain.com
+460;24.04.2015;RU;campaign_150423;24.04.2015 5:49;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";9c9878ed27@somedomain.com
+461;24.04.2015;RU;campaign_150423;24.04.2015 5:49;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";884bfd11f3@somedomain.com
+462;24.04.2015;RU;campaign_150423;24.04.2015 5:49;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 YaBrowser/15.2.2214.3645 Safari/537.36";7bc87fbb77@somedomain.com
+463;24.04.2015;RU;campaign_150423;24.04.2015 5:49;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B440";2ac500d8c5@somedomain.com
+464;24.04.2015;RU;campaign_150423;24.04.2015 5:50;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";187366f923@somedomain.com
+465;24.04.2015;RU;campaign_150423;24.04.2015 5:51;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";d897e34377@somedomain.com
+466;24.04.2015;RU;campaign_150423;24.04.2015 5:51;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36";3adba7a61f@somedomain.com
+467;24.04.2015;RU;campaign_150423;24.04.2015 5:52;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e32f32242a@somedomain.com
+468;24.04.2015;RU;campaign_150423;24.04.2015 5:52;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko)";6bd49753c3@somedomain.com
+469;24.04.2015;RU;campaign_150423;24.04.2015 5:52;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";c48dcac6d6@somedomain.com
+470;24.04.2015;RU;campaign_150423;24.04.2015 5:52;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI P6-U06 Build/HuaweiP6-U06) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";66a2b77b9a@somedomain.com
+471;24.04.2015;RU;campaign_150423;24.04.2015 5:52;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";547bf29dc2@somedomain.com
+472;24.04.2015;RU;campaign_150423;24.04.2015 5:52;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";22c1975828@somedomain.com
+473;24.04.2015;RU;campaign_150423;24.04.2015 5:53;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.2; D6503 Build/23.1.A.0.690) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";501d3c9486@somedomain.com
+474;24.04.2015;RU;campaign_150423;24.04.2015 5:53;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.2; D6503 Build/23.1.A.0.690) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";501d3c9486@somedomain.com
+475;24.04.2015;RU;campaign_150423;24.04.2015 5:53;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.2; D6503 Build/23.1.A.0.690) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";501d3c9486@somedomain.com
+476;24.04.2015;RU;campaign_150420;24.04.2015 5:53;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.2; D6503 Build/23.1.A.0.690) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";501d3c9486@somedomain.com
+477;24.04.2015;RU;campaign_150423;24.04.2015 5:53;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";42388313e3@somedomain.com
+478;24.04.2015;RU;campaign_150420;24.04.2015 5:53;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.2; D6503 Build/23.1.A.0.690) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";501d3c9486@somedomain.com
+479;24.04.2015;RU;campaign_150423;24.04.2015 5:53;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";ee2d5b4d87@somedomain.com
+480;24.04.2015;RU;campaign_150423;24.04.2015 5:53;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Thunderbird/31.6.0";ae0ed8182a@somedomain.com
+481;24.04.2015;RU;campaign_150423;24.04.2015 5:53;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";f7dab540e6@somedomain.com
+482;24.04.2015;RU;campaign_150423;24.04.2015 5:54;Windows;desktop;"Outlook-Express/7.0 (MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; Media Center PC 6.0; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; TmstmpExt)";d3d831289c@somedomain.com
+483;24.04.2015;RU;campaign_150423;24.04.2015 5:54;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";5f2c7cb6d9@somedomain.com
+484;24.04.2015;RU;campaign_150423;24.04.2015 5:54;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";7fe726e8c8@somedomain.com
+485;24.04.2015;RU;campaign_150423;24.04.2015 5:54;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";ee923bd47c@somedomain.com
+486;24.04.2015;RU;campaign_150423;24.04.2015 5:54;Android;mobile;"Mozilla/5.0 (Linux; U; Android 2.3.6; ru-ru; Solo Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";da84e58d9a@somedomain.com
+487;24.04.2015;RU;campaign_150423;24.04.2015 5:54;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6ca0b7e6c2@somedomain.com
+488;24.04.2015;RU;campaign_150423;24.04.2015 5:55;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3ca45a1807@somedomain.com
+489;24.04.2015;RU;campaign_150423;24.04.2015 5:55;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";93f42bfcbe@somedomain.com
+490;24.04.2015;RU;campaign_150423;24.04.2015 5:56;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4";2d71aa8626@somedomain.com
+491;24.04.2015;RU;campaign_150423;24.04.2015 5:56;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1f82caf1c3@somedomain.com
+492;24.04.2015;RU;campaign_150423;24.04.2015 5:56;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";a750f1fa4a@somedomain.com
+493;24.04.2015;RU;campaign_150423;24.04.2015 5:56;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";f69e4947af@somedomain.com
+494;24.04.2015;RU;campaign_150423;24.04.2015 5:56;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.4; SM-G850F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36";c1e47c4c52@somedomain.com
+495;24.04.2015;RU;campaign_150423;24.04.2015 5:56;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6f241f1504@somedomain.com
+496;24.04.2015;US;campaign_150423;24.04.2015 5:57;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";55fda56a46@somedomain.com
+497;24.04.2015;US;campaign_150423;24.04.2015 5:57;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";05ac2edc67@somedomain.com
+498;24.04.2015;RU;campaign_150420;24.04.2015 5:57;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";f7dab540e6@somedomain.com
+499;24.04.2015;US;campaign_150423;24.04.2015 5:57;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";05ac2edc67@somedomain.com
+500;24.04.2015;CH;campaign_150423;24.04.2015 5:57;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36";f938c21e67@somedomain.com
+501;24.04.2015;US;campaign_150416;24.04.2015 5:57;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";67bcd3db77@somedomain.com
+502;24.04.2015;RU;campaign_150423;24.04.2015 5:57;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";baf1335c36@somedomain.com
+503;24.04.2015;US;campaign_150423;24.04.2015 5:57;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";05ac2edc67@somedomain.com
+504;24.04.2015;RU;campaign_150423;24.04.2015 5:57;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";b0bee6bfe6@somedomain.com
+505;24.04.2015;RU;campaign_150423;24.04.2015 5:57;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";74d2ee5c64@somedomain.com
+506;24.04.2015;US;campaign_150423;24.04.2015 5:57;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";05ac2edc67@somedomain.com
+507;24.04.2015;RU;campaign_150423;24.04.2015 5:57;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; Fly IQ4411 Quad Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";f35bb7e0ee@somedomain.com
+508;24.04.2015;RU;campaign_150423;24.04.2015 5:57;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";cb69b01c73@somedomain.com
+509;24.04.2015;RU;campaign_150423;24.04.2015 5:57;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a147e7b246@somedomain.com
+510;24.04.2015;RU;campaign_150423;24.04.2015 5:58;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0ca7a873e2@somedomain.com
+511;24.04.2015;RU;campaign_150423;24.04.2015 5:58;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d91f588226@somedomain.com
+512;24.04.2015;RU;campaign_150423;24.04.2015 5:58;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";db18f27ece@somedomain.com
+513;24.04.2015;RU;campaign_150423;24.04.2015 5:58;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";624801b792@somedomain.com
+514;24.04.2015;RU;campaign_150423;24.04.2015 5:58;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e6f5e6289b@somedomain.com
+515;24.04.2015;RU;campaign_150423;24.04.2015 5:58;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";f69e4947af@somedomain.com
+516;24.04.2015;RU;campaign_150423;24.04.2015 5:59;Android;mobile;"Mozilla/5.0 (Linux; U; Android 2.3.6; ru-ru; GT-S6102 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";805621c4cf@somedomain.com
+517;24.04.2015;RU;campaign_150423;24.04.2015 6:00;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";2fd9f4c07f@somedomain.com
+518;24.04.2015;RU;campaign_150423;24.04.2015 6:00;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko)";7f2e3b152d@somedomain.com
+519;24.04.2015;RU;campaign_150423;24.04.2015 6:00;Windows;desktop;"Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/1.0";1dd39f7360@somedomain.com
+520;24.04.2015;RU;campaign_150423;24.04.2015 6:00;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";7c215a26be@somedomain.com
+521;24.04.2015;RU;campaign_150423;24.04.2015 6:00;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";bce54fc05f@somedomain.com
+522;24.04.2015;RU;campaign_150423;24.04.2015 6:00;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d9a85688af@somedomain.com
+523;24.04.2015;RU;campaign_150423;24.04.2015 6:00;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";a98068839b@somedomain.com
+524;24.04.2015;US;campaign_150423;24.04.2015 6:00;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";56a3c123de@somedomain.com
+525;24.04.2015;RU;campaign_150423;24.04.2015 6:01;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";d5b3e17258@somedomain.com
+526;24.04.2015;RU;campaign_150423;24.04.2015 6:01;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B440";18df98f639@somedomain.com
+527;24.04.2015;RU;campaign_150423;24.04.2015 6:01;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e56e38e6aa@somedomain.com
+528;24.04.2015;RU;campaign_150423;24.04.2015 6:02;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1b07749554@somedomain.com
+529;24.04.2015;RU;campaign_150423;24.04.2015 6:02;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";77459f4cfa@somedomain.com
+530;24.04.2015;RU;campaign_150423;24.04.2015 6:02;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";da48f5da57@somedomain.com
+531;24.04.2015;RU;campaign_150423;24.04.2015 6:02;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";ea24b3a4e0@somedomain.com
+532;24.04.2015;RU;campaign_150423;24.04.2015 6:02;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";185d995185@somedomain.com
+533;24.04.2015;RU;campaign_150423;24.04.2015 6:02;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B435 Safari/600.1.4";6d3107f2be@somedomain.com
+534;24.04.2015;RU;campaign_150423;24.04.2015 6:02;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";3b201984ff@somedomain.com
+535;24.04.2015;RU;campaign_150423;24.04.2015 6:03;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4";61f80ede89@somedomain.com
+536;24.04.2015;RU;campaign_150423;24.04.2015 6:03;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";aa0ec069f1@somedomain.com
+537;24.04.2015;RU;campaign_150423;24.04.2015 6:03;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";aa0ec069f1@somedomain.com
+538;24.04.2015;RU;campaign_150423;24.04.2015 6:03;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)";58796d73d5@somedomain.com
+539;24.04.2015;RU;campaign_150423;24.04.2015 6:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";aef1286577@somedomain.com
+540;24.04.2015;RU;campaign_150423;24.04.2015 6:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6de1a2d095@somedomain.com
+541;24.04.2015;RU;campaign_150423;24.04.2015 6:04;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e56e38e6aa@somedomain.com
+542;24.04.2015;RU;campaign_150423;24.04.2015 6:04;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";5f2c7cb6d9@somedomain.com
+543;24.04.2015;RU;campaign_150423;24.04.2015 6:04;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4";f08b24e03f@somedomain.com
+544;24.04.2015;RU;campaign_150423;24.04.2015 6:04;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";99d6df171d@somedomain.com
+545;24.04.2015;RU;campaign_150423;24.04.2015 6:05;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";99d6df171d@somedomain.com
+546;24.04.2015;VN;campaign_150416;24.04.2015 6:05;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; rv:37.0) Gecko/20100101 Firefox/37.0";628f7ece9a@somedomain.com
+547;24.04.2015;US;campaign_150423;24.04.2015 6:05;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";2ec47caa37@somedomain.com
+548;24.04.2015;RU;campaign_150423;24.04.2015 6:05;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G900H Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";d92f5c4f74@somedomain.com
+549;24.04.2015;RU;campaign_150423;24.04.2015 6:05;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G900H Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";d92f5c4f74@somedomain.com
+550;24.04.2015;RU;campaign_150423;24.04.2015 6:05;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";68729a5cdb@somedomain.com
+551;24.04.2015;RU;campaign_150423;24.04.2015 6:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";7144ed624b@somedomain.com
+552;24.04.2015;RU;campaign_150423;24.04.2015 6:07;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b210923a83@somedomain.com
+553;24.04.2015;RU;campaign_150423;24.04.2015 6:07;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";fa62948836@somedomain.com
+554;24.04.2015;RU;campaign_150423;24.04.2015 6:07;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b6932ee45e@somedomain.com
+555;24.04.2015;RU;campaign_150423;24.04.2015 6:08;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";dd42416f27@somedomain.com
+556;24.04.2015;RU;campaign_150423;24.04.2015 6:08;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";8a860353e5@somedomain.com
+557;24.04.2015;RU;campaign_150423;24.04.2015 6:08;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";da935c5492@somedomain.com
+558;24.04.2015;RU;campaign_150423;24.04.2015 6:08;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.2; ASUS_T00N Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";d1f5c89f60@somedomain.com
+559;24.04.2015;RU;campaign_150423;24.04.2015 6:08;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";dee609cf53@somedomain.com
+560;24.04.2015;RU;campaign_150423;24.04.2015 6:08;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1e6330fc6a@somedomain.com
+561;24.04.2015;RU;campaign_150423;24.04.2015 6:08;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; Microsoft Outlook 14.0.6025; ms-office; MSOffice 14)";14f9014c0d@somedomain.com
+562;24.04.2015;RU;campaign_150423;24.04.2015 6:09;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";2b7c9df4d8@somedomain.com
+563;24.04.2015;RU;campaign_150423;24.04.2015 6:09;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.3; ru-ru; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";6e2b0fe18d@somedomain.com
+564;24.04.2015;RU;campaign_150423;24.04.2015 6:09;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";6cd31ece52@somedomain.com
+565;24.04.2015;RU;campaign_150423;24.04.2015 6:09;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c19a0d138f@somedomain.com
+566;24.04.2015;RU;campaign_150423;24.04.2015 6:10;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B141";001615f99a@somedomain.com
+567;24.04.2015;RU;campaign_150423;24.04.2015 6:10;Android;tablet;"Mozilla/5.0 (Linux; U; Android 4.2.2; ru-ru; GT-P5110 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30";8a1bf5d31a@somedomain.com
+568;24.04.2015;RU;campaign_150423;24.04.2015 6:10;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d150d3e777@somedomain.com
+569;24.04.2015;RU;campaign_150423;24.04.2015 6:10;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c8a89773d3@somedomain.com
+570;24.04.2015;RU;campaign_150423;24.04.2015 6:11;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";0a4bf2ff67@somedomain.com
+571;24.04.2015;RU;campaign_150423;24.04.2015 6:11;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d86ef2c21f@somedomain.com
+572;24.04.2015;RU;campaign_150423;24.04.2015 6:11;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c44241d56a@somedomain.com
+573;24.04.2015;RU;campaign_150423;24.04.2015 6:12;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";6250c6c0bc@somedomain.com
+574;24.04.2015;RU;campaign_150423;24.04.2015 6:12;Android;mobile;"Mozilla/5.0 (Linux; Android 4.2.1; Lenovo P780_ROW Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 YaBrowser/15.2.2214.3725.00 Mobile Safari/537.36";445e7301ef@somedomain.com
+575;24.04.2015;RU;campaign_150423;24.04.2015 6:12;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";73412ae81d@somedomain.com
+576;24.04.2015;RU;campaign_150423;24.04.2015 6:12;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";da5bd7201e@somedomain.com
+577;24.04.2015;RU;campaign_150423;24.04.2015 6:12;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";da5bd7201e@somedomain.com
+578;24.04.2015;RU;campaign_150423;24.04.2015 6:12;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";e002dbcbb8@somedomain.com
+579;24.04.2015;RU;campaign_150423;24.04.2015 6:12;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d699fe8cf1@somedomain.com
+580;24.04.2015;RU;campaign_150326;24.04.2015 6:12;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";3f0f6ef718@somedomain.com
+581;24.04.2015;RU;campaign_150423;24.04.2015 6:12;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:31.0) Gecko/20100101 Thunderbird/31.6.0 Lightning/3.3.2";b9ac25ebae@somedomain.com
+582;24.04.2015;RU;campaign_150423;24.04.2015 6:13;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; Microsoft Outlook 15.0.4701; ms-office; MSOffice 15)";aa82b3c1ba@somedomain.com
+583;24.04.2015;RU;campaign_150423;24.04.2015 6:13;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";bf02b2021c@somedomain.com
+584;24.04.2015;KZ;campaign_150423;24.04.2015 6:13;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329";0100a5316d@somedomain.com
+585;24.04.2015;RU;campaign_150423;24.04.2015 6:13;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";348348d115@somedomain.com
+586;24.04.2015;RU;campaign_150423;24.04.2015 6:13;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";80b40a1b0a@somedomain.com
+587;24.04.2015;RU;campaign_150423;24.04.2015 6:14;Android;mobile;"Mozilla/5.0 (Linux; Android 4.2.2; C2005 Build/15.2.A.2.5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.108 Mobile Safari/537.36";74ed202083@somedomain.com
+588;24.04.2015;RU;campaign_150423;24.04.2015 6:14;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.2; GT-N7100 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.108 Mobile Safari/537.36";ea1ea3d6fc@somedomain.com
+589;24.04.2015;RU;campaign_150423;24.04.2015 6:14;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";c5603e440f@somedomain.com
+590;24.04.2015;RU;campaign_150423;24.04.2015 6:14;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET4.0C; InfoPath.1)";9ae8bce8d0@somedomain.com
+591;24.04.2015;RU;campaign_150423;24.04.2015 6:14;Android;tablet;"Mozilla/5.0 (Linux; Android 4.2.2; GT-P5200 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Safari/537.36";942af8db54@somedomain.com
+592;24.04.2015;RU;campaign_150423;24.04.2015 6:14;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";03a096e0bb@somedomain.com
+593;24.04.2015;RU;campaign_150423;24.04.2015 6:15;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511";7916d24fea@somedomain.com
+594;24.04.2015;RU;campaign_150423;24.04.2015 6:15;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";44652af5d5@somedomain.com
+595;24.04.2015;RU;campaign_150423;24.04.2015 6:15;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0005609597@somedomain.com
+596;24.04.2015;RU;campaign_150423;24.04.2015 6:15;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-G850F Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";1d0832e913@somedomain.com
+597;24.04.2015;RU;campaign_150423;24.04.2015 6:15;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-G850F Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";1d0832e913@somedomain.com
+598;24.04.2015;RU;campaign_150423;24.04.2015 6:15;Windows;desktop;Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.17;6267be41b4@somedomain.com
+599;24.04.2015;RU;campaign_150423;24.04.2015 6:15;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508";34f43f75f0@somedomain.com
+600;24.04.2015;RU;campaign_150423;24.04.2015 6:16;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f7eea496cf@somedomain.com
+601;24.04.2015;RU;campaign_150423;24.04.2015 6:16;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";904738487d@somedomain.com
+602;24.04.2015;RU;campaign_150423;24.04.2015 6:16;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";dc61596bd6@somedomain.com
+603;24.04.2015;RU;campaign_150423;24.04.2015 6:16;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";ab13a2aaf0@somedomain.com
+604;24.04.2015;RU;campaign_150423;24.04.2015 6:16;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.4; C6603 Build/10.5.1.A.0.292) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36";051c18e735@somedomain.com
+605;24.04.2015;RU;campaign_150423;24.04.2015 6:16;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";9da542200b@somedomain.com
+606;24.04.2015;RU;campaign_150423;24.04.2015 6:16;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";f0e1876d65@somedomain.com
+607;24.04.2015;RU;campaign_150420;24.04.2015 6:17;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";dc61596bd6@somedomain.com
+608;24.04.2015;RU;campaign_150423;24.04.2015 6:17;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53";1558f56eca@somedomain.com
+609;24.04.2015;RU;campaign_150423;24.04.2015 6:17;Windows;unknown;"Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0; NOKIA; Lumia 630 Dual SIM)";ee684675ef@somedomain.com
+610;24.04.2015;RU;campaign_150423;24.04.2015 6:17;Windows;unknown;"Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0; NOKIA; Lumia 630 Dual SIM)";ee684675ef@somedomain.com
+611;24.04.2015;RU;campaign_150423;24.04.2015 6:17;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f99732f195@somedomain.com
+612;24.04.2015;RU;campaign_150423;24.04.2015 6:18;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329";787ff90959@somedomain.com
+613;24.04.2015;RU;campaign_150423;24.04.2015 6:18;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";16c8a2e088@somedomain.com
+614;24.04.2015;RU;campaign_150416;24.04.2015 6:18;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_5 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B601";e81c19d3d2@somedomain.com
+615;24.04.2015;RU;campaign_150423;24.04.2015 6:18;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8475ea5c10@somedomain.com
+616;24.04.2015;RU;campaign_150420;24.04.2015 6:18;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6256fcc7fc@somedomain.com
+617;24.04.2015;RU;campaign_150423;24.04.2015 6:18;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";c5535d072d@somedomain.com
+618;24.04.2015;RU;campaign_150423;24.04.2015 6:18;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";02c643361a@somedomain.com
+619;24.04.2015;RU;campaign_150423;24.04.2015 6:18;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c6131b2875@somedomain.com
+620;24.04.2015;RU;campaign_150423;24.04.2015 6:19;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.2; E39 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";2a46c022a5@somedomain.com
+621;24.04.2015;RU;campaign_150423;24.04.2015 6:19;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";c318e132f5@somedomain.com
+622;24.04.2015;RU;campaign_150423;24.04.2015 6:19;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G900F Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";1a2ef26b56@somedomain.com
+623;24.04.2015;RU;campaign_150423;24.04.2015 6:19;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G900F Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";1a2ef26b56@somedomain.com
+624;24.04.2015;RU;campaign_150423;24.04.2015 6:19;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";a4c1243d43@somedomain.com
+625;24.04.2015;RU;campaign_150423;24.04.2015 6:19;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";b98d87f5e6@somedomain.com
+626;24.04.2015;RU;campaign_150423;24.04.2015 6:19;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";8f171ed304@somedomain.com
+627;24.04.2015;RU;campaign_150423;24.04.2015 6:19;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53";234170fea3@somedomain.com
+628;24.04.2015;RU;campaign_150423;24.04.2015 6:19;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";01737c7078@somedomain.com
+629;24.04.2015;RU;campaign_150423;24.04.2015 6:19;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a";2e0652f750@somedomain.com
+630;24.04.2015;RU;campaign_150423;24.04.2015 6:19;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; BRI/2; .NET4.0C; .NET4.0E; Media Center PC 6.0; InfoPath.3)";3acac5a707@somedomain.com
+631;24.04.2015;RU;campaign_150423;24.04.2015 6:20;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";a95c6097bc@somedomain.com
+632;24.04.2015;RU;campaign_150423;24.04.2015 6:20;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";5459e92239@somedomain.com
+633;24.04.2015;AU;campaign_150423;24.04.2015 6:20;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko)";5bdf087730@somedomain.com
+634;24.04.2015;RU;campaign_150423;24.04.2015 6:20;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8a08232dd4@somedomain.com
+635;24.04.2015;RU;campaign_150423;24.04.2015 6:20;Android;tablet;"Mozilla/5.0 (Linux; U; Android 4.3; ru-ru; ME302C Build/JSS15Q) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30";8d276b1536@somedomain.com
+636;24.04.2015;RU;campaign_150416;24.04.2015 6:20;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6a9e00f5bc@somedomain.com
+637;24.04.2015;RU;campaign_150423;24.04.2015 6:20;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.4; C6603 Build/10.5.1.A.0.292) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36";c8d7dee546@somedomain.com
+638;24.04.2015;RU;campaign_150423;24.04.2015 6:20;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.6.0";aacee4d90e@somedomain.com
+639;24.04.2015;RU;campaign_150423;24.04.2015 6:21;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";76a2b959e4@somedomain.com
+640;24.04.2015;RU;campaign_150423;24.04.2015 6:21;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";d44dd46acd@somedomain.com
+641;24.04.2015;RU;campaign_150423;24.04.2015 6:21;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0";896eaafd4a@somedomain.com
+642;24.04.2015;RU;campaign_150423;24.04.2015 6:21;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0";896eaafd4a@somedomain.com
+643;24.04.2015;RU;campaign_150423;24.04.2015 6:21;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";8c28fad4c4@somedomain.com
+644;24.04.2015;RU;campaign_150423;24.04.2015 6:21;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53";5f17e6d6ff@somedomain.com
+645;24.04.2015;RU;campaign_150423;24.04.2015 6:22;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-N910C Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";566f9b103a@somedomain.com
+646;24.04.2015;RU;campaign_150423;24.04.2015 6:22;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-N910C Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";566f9b103a@somedomain.com
+647;24.04.2015;RU;campaign_150423;24.04.2015 6:22;Windows;desktop;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36;ee26348e34@somedomain.com
+648;24.04.2015;RU;campaign_150423;24.04.2015 6:22;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";bc8e317c46@somedomain.com
+649;24.04.2015;RU;campaign_150423;24.04.2015 6:22;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";babf918d20@somedomain.com
+650;24.04.2015;RU;campaign_150423;24.04.2015 6:22;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko)";d1cbf29d7c@somedomain.com
+651;24.04.2015;RU;campaign_150423;24.04.2015 6:23;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";12c49b7919@somedomain.com
+652;24.04.2015;RU;campaign_150423;24.04.2015 6:23;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a9914cda63@somedomain.com
+653;24.04.2015;RU;campaign_150423;24.04.2015 6:23;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0";e98b19e603@somedomain.com
+654;24.04.2015;RU;campaign_150423;24.04.2015 6:23;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a";5b9dc7a810@somedomain.com
+655;24.04.2015;US;campaign_150423;24.04.2015 6:24;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";351feec4bc@somedomain.com
+656;24.04.2015;RU;campaign_150423;24.04.2015 6:24;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) YaBrowser/15.4.2272.2750.10 Mobile/12B466 Safari/600.1.4";133a66c5ce@somedomain.com
+657;24.04.2015;RU;campaign_150423;24.04.2015 6:24;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";7c3b715029@somedomain.com
+658;24.04.2015;RU;campaign_150423;24.04.2015 6:24;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; GT-I8190 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";95592b690c@somedomain.com
+659;24.04.2015;US;campaign_150423;24.04.2015 6:24;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0";f409111bfb@somedomain.com
+660;24.04.2015;RU;campaign_150423;24.04.2015 6:24;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";74b220a4ea@somedomain.com
+661;24.04.2015;RU;campaign_150423;24.04.2015 6:24;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";59a3a930eb@somedomain.com
+662;24.04.2015;RU;campaign_150423;24.04.2015 6:24;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1d9215f912@somedomain.com
+663;24.04.2015;RU;campaign_150423;24.04.2015 6:25;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";ee79027c0e@somedomain.com
+664;24.04.2015;RU;campaign_150423;24.04.2015 6:25;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4e177a4000@somedomain.com
+665;24.04.2015;RU;campaign_150423;24.04.2015 6:25;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a9914cda63@somedomain.com
+666;24.04.2015;RU;campaign_150423;24.04.2015 6:25;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a480fa2aca@somedomain.com
+667;24.04.2015;RU;campaign_150423;24.04.2015 6:25;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4958e75e44@somedomain.com
+668;24.04.2015;RU;campaign_150423;24.04.2015 6:25;Android;mobile;"Mozilla/5.0 (Linux; Android 4.2.2; Lenovo A859 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36";482a8d5ffc@somedomain.com
+669;24.04.2015;RU;campaign_150423;24.04.2015 6:25;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6483146d62@somedomain.com
+670;24.04.2015;RU;campaign_150423;24.04.2015 6:25;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";ab12209b2d@somedomain.com
+671;24.04.2015;RU;campaign_150423;24.04.2015 6:26;Linux;desktop;"Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.21) Gecko/20110831 Thunderbird/3.1.13";d5635d014f@somedomain.com
+672;24.04.2015;RU;campaign_150423;24.04.2015 6:26;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4cc228c493@somedomain.com
+673;24.04.2015;RU;campaign_150423;24.04.2015 6:26;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) YaBrowser/15.4.2272.3000.11 Mobile/12B466 Safari/600.1.4";e09c3df947@somedomain.com
+674;24.04.2015;RU;campaign_150423;24.04.2015 6:26;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c752b3e357@somedomain.com
+675;24.04.2015;RU;campaign_150423;24.04.2015 6:26;Android;tablet;"Mozilla/5.0 (Linux; Android 4.4.2; SM-P605 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36";1ec419affc@somedomain.com
+676;24.04.2015;RU;campaign_150423;24.04.2015 6:26;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; GT-N7100 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";d75b7cd7d9@somedomain.com
+677;24.04.2015;RU;campaign_150423;24.04.2015 6:26;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e34fe3e0b5@somedomain.com
+678;24.04.2015;RU;campaign_150423;24.04.2015 6:26;Android;mobile;"Mozilla/5.0 (Linux; Android 4.4.2; Indigo Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";287f1465cd@somedomain.com
+679;24.04.2015;RU;campaign_150423;24.04.2015 6:26;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";adfb69b417@somedomain.com
+680;24.04.2015;RU;campaign_150423;24.04.2015 6:26;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167";1aa08717ac@somedomain.com
+681;24.04.2015;RU;campaign_150416;24.04.2015 6:27;Android;mobile;"Mozilla/5.0 (Linux; Android 4.2.2; Lenovo A859 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36";482a8d5ffc@somedomain.com
+682;24.04.2015;RU;campaign_150423;24.04.2015 6:27;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508";0ee622eefc@somedomain.com
+683;24.04.2015;RU;campaign_150423;24.04.2015 6:27;Windows;desktop;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36;8e72553714@somedomain.com
+684;24.04.2015;RU;campaign_150423;24.04.2015 6:27;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";58c56c6b2e@somedomain.com
+685;24.04.2015;RU;campaign_150423;24.04.2015 6:28;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1f69143434@somedomain.com
+686;24.04.2015;RU;campaign_150423;24.04.2015 6:28;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";f801c3f8b4@somedomain.com
+687;24.04.2015;RU;campaign_150423;24.04.2015 6:28;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25";8d7a8d9cf2@somedomain.com
+688;24.04.2015;RU;campaign_150423;24.04.2015 6:28;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-A500F Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";b510ff7fbd@somedomain.com
+689;24.04.2015;RU;campaign_150423;24.04.2015 6:28;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-A500F Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";b510ff7fbd@somedomain.com
+690;24.04.2015;RU;campaign_150423;24.04.2015 6:29;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0; SM-N900 Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.129 Mobile Safari/537.36";895c6b6290@somedomain.com
+691;24.04.2015;RU;campaign_150423;24.04.2015 6:29;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.3; ru-ru; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";48108d26fb@somedomain.com
+692;24.04.2015;RU;campaign_150423;24.04.2015 6:29;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B146";6081384899@somedomain.com
+693;24.04.2015;RU;campaign_150423;24.04.2015 6:29;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";baade7a16e@somedomain.com
+694;24.04.2015;RU;campaign_150420;24.04.2015 6:29;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";ee79027c0e@somedomain.com
+695;24.04.2015;RU;campaign_150423;24.04.2015 6:29;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b6be24d22c@somedomain.com
+696;24.04.2015;RU;campaign_150423;24.04.2015 6:29;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3598596063@somedomain.com
+697;24.04.2015;RU;campaign_150423;24.04.2015 6:29;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";cb6a93a87c@somedomain.com
+698;24.04.2015;RU;campaign_150423;24.04.2015 6:30;Android;mobile;"Mozilla/5.0 (Linux; Android 4.2.2; Lenovo A859 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36";482a8d5ffc@somedomain.com
+699;24.04.2015;RU;campaign_150423;24.04.2015 6:30;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";41c730a859@somedomain.com
+700;24.04.2015;RU;campaign_150423;24.04.2015 6:30;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";5211fd4bec@somedomain.com
+701;24.04.2015;RU;campaign_150423;24.04.2015 6:30;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e529b89f58@somedomain.com
+702;24.04.2015;RU;campaign_150423;24.04.2015 6:30;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d0156d46b6@somedomain.com
+703;24.04.2015;RU;campaign_150423;24.04.2015 6:30;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko)";25556aa2f8@somedomain.com
+704;24.04.2015;US;campaign_150423;24.04.2015 6:30;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";11c6844cff@somedomain.com
+705;24.04.2015;RU;campaign_150423;24.04.2015 6:30;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";9129155fe4@somedomain.com
+706;24.04.2015;RU;campaign_150423;24.04.2015 6:31;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko";1f68d8616e@somedomain.com
+707;24.04.2015;RU;campaign_150423;24.04.2015 6:31;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";191961dd03@somedomain.com
+708;24.04.2015;RU;campaign_150423;24.04.2015 6:31;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";a45b9bd290@somedomain.com
+709;24.04.2015;RU;campaign_150423;24.04.2015 6:31;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8e29d3cbdd@somedomain.com
+710;24.04.2015;RU;campaign_150423;24.04.2015 6:31;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";a2de39ee48@somedomain.com
+711;24.04.2015;RU;campaign_150416;24.04.2015 6:31;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";ee79027c0e@somedomain.com
+712;24.04.2015;RU;campaign_150423;24.04.2015 6:31;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8e29d3cbdd@somedomain.com
+713;24.04.2015;RU;campaign_150423;24.04.2015 6:31;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8aa75e2e98@somedomain.com
+714;24.04.2015;RU;campaign_150423;24.04.2015 6:31;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko)";6aff4e464c@somedomain.com
+715;24.04.2015;RU;campaign_150423;24.04.2015 6:32;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; Trident/7.0; Touch; MSAppHost/2.0; rv:11.0) like Gecko";6593852a78@somedomain.com
+716;24.04.2015;RU;campaign_150423;24.04.2015 6:32;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) YaBrowser/15.4.2272.3000.11 Mobile/12B466 Safari/600.1.4";0b696d4126@somedomain.com
+717;24.04.2015;RU;campaign_150423;24.04.2015 6:32;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) YaBrowser/15.4.2272.3000.11 Mobile/12B466 Safari/600.1.4";0b696d4126@somedomain.com
+718;24.04.2015;RU;campaign_150423;24.04.2015 6:32;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8074b5de28@somedomain.com
+719;24.04.2015;RU;campaign_150423;24.04.2015 6:32;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b72939130d@somedomain.com
+720;24.04.2015;RU;campaign_150423;24.04.2015 6:32;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8e29d3cbdd@somedomain.com
+721;24.04.2015;RU;campaign_150423;24.04.2015 6:32;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b72939130d@somedomain.com
+722;24.04.2015;RU;campaign_150423;24.04.2015 6:32;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)";bfe0dda25b@somedomain.com
+723;24.04.2015;RU;campaign_150423;24.04.2015 6:33;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";487c73dfcf@somedomain.com
+724;24.04.2015;RU;campaign_150407;24.04.2015 6:33;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";d2eee4bc1d@somedomain.com
+725;24.04.2015;RU;campaign_150409;24.04.2015 6:33;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";d2eee4bc1d@somedomain.com
+726;24.04.2015;RU;campaign_150423;24.04.2015 6:33;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b4e5fb602a@somedomain.com
+727;24.04.2015;RU;campaign_150423;24.04.2015 6:33;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko)";80bcac11a3@somedomain.com
+728;24.04.2015;RU;campaign_150423;24.04.2015 6:33;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";2fe2d8d995@somedomain.com
+729;24.04.2015;RU;campaign_150423;24.04.2015 6:34;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f03b8b1e02@somedomain.com
+730;24.04.2015;RU;campaign_150423;24.04.2015 6:34;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";39b53478b5@somedomain.com
+731;24.04.2015;RU;campaign_150423;24.04.2015 6:34;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";28a954f0b6@somedomain.com
+732;24.04.2015;RU;campaign_150423;24.04.2015 6:34;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 YaBrowser/15.2.2214.3645 Safari/537.36";5ebe2dedbc@somedomain.com
+733;24.04.2015;RU;campaign_150423;24.04.2015 6:34;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e96e70f646@somedomain.com
+734;24.04.2015;RU;campaign_150423;24.04.2015 6:34;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";79480f26c0@somedomain.com
+735;24.04.2015;RU;campaign_150423;24.04.2015 6:35;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";938d1fc015@somedomain.com
+736;24.04.2015;RU;campaign_150423;24.04.2015 6:35;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508";9acc435fde@somedomain.com
+737;24.04.2015;RU;campaign_150423;24.04.2015 6:35;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";2372972833@somedomain.com
+738;24.04.2015;RU;campaign_150423;24.04.2015 6:35;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.3; ru-ru; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";aab4ccc88e@somedomain.com
+739;24.04.2015;RU;campaign_150423;24.04.2015 6:35;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508";07e8a943b2@somedomain.com
+740;24.04.2015;RU;campaign_150423;24.04.2015 6:35;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329";45ca34502f@somedomain.com
+741;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0762875ecb@somedomain.com
+742;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f77063c25c@somedomain.com
+743;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f77063c25c@somedomain.com
+744;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0762875ecb@somedomain.com
+745;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";cc454dfb77@somedomain.com
+746;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f77063c25c@somedomain.com
+747;24.04.2015;US;campaign_150423;24.04.2015 6:36;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";abcd6bc8d8@somedomain.com
+748;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f77063c25c@somedomain.com
+749;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";9f19b0a11c@somedomain.com
+750;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f77063c25c@somedomain.com
+751;24.04.2015;RU;campaign_150423;24.04.2015 6:36;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B440";4b07d32675@somedomain.com
+752;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G800H Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";64de891a0e@somedomain.com
+753;24.04.2015;EU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3521737a5c@somedomain.com
+754;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f77063c25c@somedomain.com
+755;24.04.2015;RU;campaign_150423;24.04.2015 6:36;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f77063c25c@somedomain.com
+756;24.04.2015;RU;campaign_150423;24.04.2015 6:37;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";8f24bc6528@somedomain.com
+757;24.04.2015;RU;campaign_150423;24.04.2015 6:37;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-N910C Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";5e992c5195@somedomain.com
+758;24.04.2015;RU;campaign_150423;24.04.2015 6:37;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-N910C Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";5e992c5195@somedomain.com
+759;24.04.2015;RU;campaign_150423;24.04.2015 6:37;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MAARJS; MSAppHost/2.0; rv:11.0) like Gecko";999e46f615@somedomain.com
+760;24.04.2015;RU;campaign_150423;24.04.2015 6:37;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-N910C Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";5e992c5195@somedomain.com
+761;24.04.2015;RU;campaign_150423;24.04.2015 6:37;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-N910C Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";5e992c5195@somedomain.com
+762;24.04.2015;RU;campaign_150423;24.04.2015 6:37;Android;tablet;"Opera/9.80 (Android; Opera Mini/7.5.32193/36.1719; U; ru) Presto/2.12.423 Version/12.16";0671fd102f@somedomain.com
+763;24.04.2015;RU;campaign_150423;24.04.2015 6:37;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";e795b819a7@somedomain.com
+764;24.04.2015;RU;campaign_150423;24.04.2015 6:38;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B440";67aaaa84a4@somedomain.com
+765;24.04.2015;RU;campaign_150423;24.04.2015 6:38;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";83811d9895@somedomain.com
+766;24.04.2015;RU;campaign_150423;24.04.2015 6:38;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";75b71ea48a@somedomain.com
+767;24.04.2015;RU;campaign_150423;24.04.2015 6:38;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";e804726468@somedomain.com
+768;24.04.2015;RU;campaign_150423;24.04.2015 6:38;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";decb644488@somedomain.com
+769;24.04.2015;RU;campaign_150420;24.04.2015 6:38;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MAARJS; MSAppHost/2.0; rv:11.0) like Gecko";999e46f615@somedomain.com
+770;24.04.2015;RU;campaign_150423;24.04.2015 6:39;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";94da5ef1bc@somedomain.com
+771;24.04.2015;RU;campaign_150423;24.04.2015 6:39;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1cecc9bccb@somedomain.com
+772;24.04.2015;RU;campaign_150423;24.04.2015 6:39;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.3; ru-ru; LT25i Build/9.2.A.2.5) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";e66cb97a5f@somedomain.com
+773;24.04.2015;RU;campaign_150423;24.04.2015 6:39;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8ae95fde4a@somedomain.com
+774;24.04.2015;RU;campaign_150423;24.04.2015 6:39;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)";b24f60df3c@somedomain.com
+775;24.04.2015;RU;campaign_150423;24.04.2015 6:39;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";501ec72b6c@somedomain.com
+776;24.04.2015;RU;campaign_150423;24.04.2015 6:39;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";6ce11e4e48@somedomain.com
+777;24.04.2015;RU;campaign_150423;24.04.2015 6:40;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";5008b5ddc6@somedomain.com
+778;24.04.2015;RU;campaign_150423;24.04.2015 6:40;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";06a65bf99b@somedomain.com
+779;24.04.2015;RU;campaign_150423;24.04.2015 6:40;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329";c785a9dc74@somedomain.com
+780;24.04.2015;RU;campaign_150423;24.04.2015 6:40;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";2d4472e4be@somedomain.com
+781;24.04.2015;RU;campaign_150423;24.04.2015 6:41;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f12da5ee92@somedomain.com
+782;24.04.2015;RU;campaign_150423;24.04.2015 6:41;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";0c96fdb3ce@somedomain.com
+783;24.04.2015;RU;campaign_150423;24.04.2015 6:41;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167";80e4cd8b10@somedomain.com
+784;24.04.2015;RU;campaign_150423;24.04.2015 6:41;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b836f7279a@somedomain.com
+785;24.04.2015;RU;campaign_150423;24.04.2015 6:41;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";b7d88f5edc@somedomain.com
+786;24.04.2015;RU;campaign_150423;24.04.2015 6:42;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f12da5ee92@somedomain.com
+787;24.04.2015;EU;campaign_150423;24.04.2015 6:42;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";bd542aa533@somedomain.com
+788;24.04.2015;RU;campaign_150423;24.04.2015 6:42;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";4fe7efd558@somedomain.com
+789;24.04.2015;RU;campaign_150423;24.04.2015 6:42;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";53cd452a16@somedomain.com
+790;24.04.2015;US;campaign_150423;24.04.2015 6:42;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";e70d62cd92@somedomain.com
+791;24.04.2015;RU;campaign_150423;24.04.2015 6:42;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4";1574f550f2@somedomain.com
+792;24.04.2015;RU;campaign_150420;24.04.2015 6:42;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508";adaa97d805@somedomain.com
+793;24.04.2015;RU;campaign_150423;24.04.2015 6:43;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e8e027420b@somedomain.com
+794;24.04.2015;RU;campaign_150423;24.04.2015 6:43;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";48cfbf2394@somedomain.com
+795;24.04.2015;RU;campaign_150416;24.04.2015 6:43;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";0c96fdb3ce@somedomain.com
+796;24.04.2015;RU;campaign_150423;24.04.2015 6:44;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";44502bfc4f@somedomain.com
+797;24.04.2015;RU;campaign_150423;24.04.2015 6:44;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4c448e9352@somedomain.com
+798;24.04.2015;RU;campaign_150423;24.04.2015 6:44;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8027eee854@somedomain.com
+799;24.04.2015;RU;campaign_150423;24.04.2015 6:44;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";9f9032bc56@somedomain.com
+800;24.04.2015;RU;campaign_150423;24.04.2015 6:44;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";39f90aa8a2@somedomain.com
+801;24.04.2015;RU;campaign_150423;24.04.2015 6:44;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";2ab7b62737@somedomain.com
+802;24.04.2015;RU;campaign_150423;24.04.2015 6:44;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";0c2ba29341@somedomain.com
+803;24.04.2015;RU;campaign_150423;24.04.2015 6:44;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8fed3c19f9@somedomain.com
+804;24.04.2015;RU;campaign_150423;24.04.2015 6:44;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4";240282e062@somedomain.com
+805;24.04.2015;RU;campaign_150423;24.04.2015 6:44;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";7278e25d79@somedomain.com
+806;24.04.2015;RU;campaign_150409;24.04.2015 6:45;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";688a0992d2@somedomain.com
+807;24.04.2015;RU;campaign_150423;24.04.2015 6:45;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";a621555e5c@somedomain.com
+808;24.04.2015;RU;campaign_150423;24.04.2015 6:45;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0e50958a82@somedomain.com
+809;24.04.2015;RU;campaign_150423;24.04.2015 6:45;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";96415e71f1@somedomain.com
+810;24.04.2015;US;campaign_150423;24.04.2015 6:45;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";a030babec9@somedomain.com
+811;24.04.2015;RU;campaign_150423;24.04.2015 6:45;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";43b9df7cfb@somedomain.com
+812;24.04.2015;RU;campaign_150423;24.04.2015 6:45;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";5340852a65@somedomain.com
+813;24.04.2015;RU;campaign_150423;24.04.2015 6:45;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a";fe7902732d@somedomain.com
+814;24.04.2015;RU;campaign_150423;24.04.2015 6:45;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";39f90aa8a2@somedomain.com
+815;24.04.2015;RU;campaign_150409;24.04.2015 6:45;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";0c96fdb3ce@somedomain.com
+816;24.04.2015;RU;campaign_150423;24.04.2015 6:46;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411";58dd667c07@somedomain.com
+817;24.04.2015;RU;campaign_150423;24.04.2015 6:46;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8e69c34563@somedomain.com
+818;24.04.2015;RU;campaign_150423;24.04.2015 6:46;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko";beefdbb91a@somedomain.com
+819;24.04.2015;RU;campaign_150423;24.04.2015 6:46;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";86389caf27@somedomain.com
+820;24.04.2015;TH;campaign_150423;24.04.2015 6:47;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; MyIE2; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET4.0C)";77b1b4875e@somedomain.com
+821;24.04.2015;RU;campaign_150423;24.04.2015 6:47;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6fdeccde48@somedomain.com
+822;24.04.2015;RU;campaign_150423;24.04.2015 6:47;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko)";713c7f11c9@somedomain.com
+823;24.04.2015;RU;campaign_150423;24.04.2015 6:47;Android;mobile;"Mozilla/5.0 (Linux; Android 4.3; GT-I9300 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.108 Mobile Safari/537.36";424a83fa95@somedomain.com
+824;24.04.2015;RU;campaign_150423;24.04.2015 6:47;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4";f402688b06@somedomain.com
+825;24.04.2015;RU;campaign_150423;24.04.2015 6:47;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1a9dde0f2e@somedomain.com
+826;24.04.2015;RU;campaign_150423;24.04.2015 6:47;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";6122db1ac1@somedomain.com
+827;24.04.2015;RU;campaign_150423;24.04.2015 6:47;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f84fd216a9@somedomain.com
+828;24.04.2015;RU;campaign_150423;24.04.2015 6:47;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";122658a08e@somedomain.com
+829;24.04.2015;RU;campaign_150423;24.04.2015 6:48;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";57a560e395@somedomain.com
+830;24.04.2015;RU;campaign_150423;24.04.2015 6:48;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511";e78edc502e@somedomain.com
+831;24.04.2015;RU;campaign_150423;24.04.2015 6:48;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e5786ced81@somedomain.com
+832;24.04.2015;RU;campaign_150423;24.04.2015 6:48;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e1714a28be@somedomain.com
+833;24.04.2015;RU;campaign_150420;24.04.2015 6:48;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";492ea6e7db@somedomain.com
+834;24.04.2015;RU;campaign_150423;24.04.2015 6:48;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";6ac16d8868@somedomain.com
+835;24.04.2015;RU;campaign_150423;24.04.2015 6:48;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";2643fae227@somedomain.com
+836;24.04.2015;RU;campaign_150423;24.04.2015 6:48;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";9d27edb39f@somedomain.com
+837;24.04.2015;RU;campaign_150423;24.04.2015 6:49;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";58e1fede7d@somedomain.com
+838;24.04.2015;EU;campaign_150423;24.04.2015 6:49;iOS;mobile;"Mozilla/5.0 (iPod; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B500";18f49bc80f@somedomain.com
+839;24.04.2015;RU;campaign_150423;24.04.2015 6:49;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3674d792d2@somedomain.com
+840;24.04.2015;RU;campaign_150423;24.04.2015 6:49;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";9b96cb325c@somedomain.com
+841;24.04.2015;RU;campaign_150423;24.04.2015 6:49;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";3e12212520@somedomain.com
+842;24.04.2015;RU;campaign_150423;24.04.2015 6:50;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";048998090f@somedomain.com
+843;24.04.2015;RU;campaign_150423;24.04.2015 6:50;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e9193be5a2@somedomain.com
+844;24.04.2015;RU;campaign_150423;24.04.2015 6:50;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.6.0";9e3e97a80b@somedomain.com
+845;24.04.2015;RU;campaign_150312;24.04.2015 6:50;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e1880c09c0@somedomain.com
+846;24.04.2015;RU;campaign_150423;24.04.2015 6:50;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";62ade54520@somedomain.com
+847;24.04.2015;RU;campaign_150311;24.04.2015 6:50;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e1880c09c0@somedomain.com
+848;24.04.2015;RU;campaign_150423;24.04.2015 6:51;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";399903af6a@somedomain.com
+849;24.04.2015;RU;campaign_150423;24.04.2015 6:51;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0f20144c14@somedomain.com
+850;24.04.2015;RU;campaign_150423;24.04.2015 6:51;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c74937a912@somedomain.com
+851;24.04.2015;RU;campaign_150423;24.04.2015 6:51;Windows;desktop;Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36;849fac4c03@somedomain.com
+852;24.04.2015;RU;campaign_150423;24.04.2015 6:51;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";47868597fe@somedomain.com
+853;24.04.2015;RU;campaign_150423;24.04.2015 6:51;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Thunderbird/31.6.0";24d879f3a4@somedomain.com
+854;24.04.2015;RU;campaign_150423;24.04.2015 6:51;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508";f31bcb6250@somedomain.com
+855;24.04.2015;RU;campaign_150423;24.04.2015 6:51;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko)";c0f98ab12e@somedomain.com
+856;24.04.2015;RU;campaign_150423;24.04.2015 6:51;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";fe269d19fc@somedomain.com
+857;24.04.2015;RU;campaign_150423;24.04.2015 6:51;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko)";c0f98ab12e@somedomain.com
+858;24.04.2015;RU;campaign_150423;24.04.2015 6:51;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";ff517b3fb7@somedomain.com
+859;24.04.2015;RU;campaign_150423;24.04.2015 6:51;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167";d7b1258737@somedomain.com
+860;24.04.2015;RU;campaign_150420;24.04.2015 6:51;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko)";0d52428470@somedomain.com
+861;24.04.2015;RU;campaign_150423;24.04.2015 6:51;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a5395bb457@somedomain.com
+862;24.04.2015;RU;campaign_150423;24.04.2015 6:51;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e9193be5a2@somedomain.com
+863;24.04.2015;RU;campaign_150423;24.04.2015 6:51;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";8f19277a61@somedomain.com
+864;24.04.2015;RU;campaign_150423;24.04.2015 6:52;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";311112130b@somedomain.com
+865;24.04.2015;RU;campaign_150423;24.04.2015 6:52;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B440";62e53a8619@somedomain.com
+866;24.04.2015;RU;campaign_150423;24.04.2015 6:52;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:37.0) Gecko/20100101 Firefox/37.0";12a2442d44@somedomain.com
+867;24.04.2015;RU;campaign_150423;24.04.2015 6:52;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";430d767625@somedomain.com
+868;24.04.2015;RU;campaign_150423;24.04.2015 6:52;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";48a7e29bbc@somedomain.com
+869;24.04.2015;RU;campaign_150423;24.04.2015 6:52;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-A500F Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";f44266efbe@somedomain.com
+870;24.04.2015;RU;campaign_150423;24.04.2015 6:52;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.4; ru-ru; SM-A500F Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";f44266efbe@somedomain.com
+871;24.04.2015;RU;campaign_150423;24.04.2015 6:52;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.6.0 Lightning/3.3.2";f224477bc2@somedomain.com
+872;24.04.2015;RU;campaign_150423;24.04.2015 6:53;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";74f90124da@somedomain.com
+873;24.04.2015;RU;campaign_150423;24.04.2015 6:53;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1c05fc33f5@somedomain.com
+874;24.04.2015;RU;campaign_150423;24.04.2015 6:53;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";9cdb7e829e@somedomain.com
+875;24.04.2015;RU;campaign_150423;24.04.2015 6:53;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";8d5f2ad9d2@somedomain.com
+876;24.04.2015;RU;campaign_150423;24.04.2015 6:54;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1c624af085@somedomain.com
+877;24.04.2015;RU;campaign_150423;24.04.2015 6:54;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";72623729fc@somedomain.com
+878;24.04.2015;RU;campaign_150423;24.04.2015 6:54;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1c624af085@somedomain.com
+879;24.04.2015;RU;campaign_150423;24.04.2015 6:54;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko";227f90ebe6@somedomain.com
+880;24.04.2015;RU;campaign_150423;24.04.2015 6:54;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko";227f90ebe6@somedomain.com
+881;24.04.2015;RU;campaign_150423;24.04.2015 6:54;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";efafddaece@somedomain.com
+882;24.04.2015;RU;campaign_150420;24.04.2015 6:55;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";d9f5188fcb@somedomain.com
+883;24.04.2015;US;campaign_150423;24.04.2015 6:55;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";2f54e3e748@somedomain.com
+884;24.04.2015;RU;campaign_150420;24.04.2015 6:55;Android;tablet;"Mozilla/5.0 (Linux; U; Android 4.2.2; ru-ru; GT-P5100 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30";94c98caddd@somedomain.com
+885;24.04.2015;RU;campaign_150423;24.04.2015 6:55;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G900F Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";09f385c708@somedomain.com
+886;24.04.2015;RU;campaign_150423;24.04.2015 6:55;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G900F Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";09f385c708@somedomain.com
+887;24.04.2015;RU;campaign_150423;24.04.2015 6:55;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";ed022cb062@somedomain.com
+888;24.04.2015;RU;campaign_150423;24.04.2015 6:55;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";edd472f7fb@somedomain.com
+889;24.04.2015;US;campaign_150423;24.04.2015 6:55;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";30fa7616be@somedomain.com
+890;24.04.2015;RU;campaign_150423;24.04.2015 6:55;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";477f3845b6@somedomain.com
+891;24.04.2015;US;campaign_150423;24.04.2015 6:55;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";30fa7616be@somedomain.com
+892;24.04.2015;RU;campaign_150423;24.04.2015 6:55;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";89bdaa5a2a@somedomain.com
+893;24.04.2015;RU;campaign_150423;24.04.2015 6:55;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G900F Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";09f385c708@somedomain.com
+894;24.04.2015;RU;campaign_150423;24.04.2015 6:55;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G900F Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";09f385c708@somedomain.com
+895;24.04.2015;RU;campaign_150423;24.04.2015 6:55;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G900F Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";09f385c708@somedomain.com
+896;24.04.2015;RU;campaign_150423;24.04.2015 6:55;Android;mobile;"Mozilla/5.0 (Linux; U; Android 4.4.2; ru-ru; SM-G900F Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";09f385c708@somedomain.com
+897;24.04.2015;RU;campaign_150423;24.04.2015 6:56;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko)";15a9c433b4@somedomain.com
+898;24.04.2015;RU;campaign_150423;24.04.2015 6:56;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12A405";a3bb53e3fb@somedomain.com
+899;24.04.2015;RU;campaign_150423;24.04.2015 6:56;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329";d93ac044c8@somedomain.com
+900;24.04.2015;RU;campaign_150423;24.04.2015 6:56;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";2faa49e263@somedomain.com
+901;24.04.2015;RU;campaign_150423;24.04.2015 6:56;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";10547cf29d@somedomain.com
+902;24.04.2015;RU;campaign_150423;24.04.2015 6:56;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";de7e745fe7@somedomain.com
+903;24.04.2015;RU;campaign_150423;24.04.2015 6:56;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1c624af085@somedomain.com
+904;24.04.2015;RU;campaign_150423;24.04.2015 6:56;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";668d953565@somedomain.com
+905;24.04.2015;RU;campaign_150423;24.04.2015 6:56;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";edde73c703@somedomain.com
+906;24.04.2015;RU;campaign_150423;24.04.2015 6:56;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";925025f134@somedomain.com
+907;24.04.2015;RU;campaign_150423;24.04.2015 6:56;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4e7451f00d@somedomain.com
+908;24.04.2015;RU;campaign_150423;24.04.2015 6:57;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";fbffdbd120@somedomain.com
+909;24.04.2015;RU;campaign_150423;24.04.2015 6:57;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d07a3d1698@somedomain.com
+910;24.04.2015;RU;campaign_150423;24.04.2015 6:57;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329";8a69f014cf@somedomain.com
+911;24.04.2015;RU;campaign_150423;24.04.2015 6:57;Windows;unknown;"Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0; NOKIA; Lumia 925)";3d1fecc1c7@somedomain.com
+912;24.04.2015;RU;campaign_150423;24.04.2015 6:57;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";5d051a7b06@somedomain.com
+913;24.04.2015;RU;campaign_150423;24.04.2015 6:58;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";1c624af085@somedomain.com
+914;24.04.2015;RU;campaign_150423;24.04.2015 6:58;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c9c313e466@somedomain.com
+915;24.04.2015;RU;campaign_150423;24.04.2015 6:58;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";776e31ad19@somedomain.com
+916;24.04.2015;RU;campaign_150416;24.04.2015 6:58;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";a5f7783a15@somedomain.com
+917;24.04.2015;RU;campaign_150423;24.04.2015 6:58;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";25a9214fc6@somedomain.com
+918;24.04.2015;RU;campaign_150423;24.04.2015 6:58;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";b4e765defb@somedomain.com
+919;24.04.2015;RU;campaign_150423;24.04.2015 6:58;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0407b3e5cc@somedomain.com
+920;24.04.2015;RU;campaign_150423;24.04.2015 6:59;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c9c313e466@somedomain.com
+921;24.04.2015;RU;campaign_150423;24.04.2015 6:59;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";a118e8a6c9@somedomain.com
+922;24.04.2015;RU;campaign_150423;24.04.2015 6:59;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";da1cd9caef@somedomain.com
+923;24.04.2015;RU;campaign_150423;24.04.2015 6:59;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";9f99b6c4c7@somedomain.com
+924;24.04.2015;RU;campaign_150420;24.04.2015 6:59;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";9f99b6c4c7@somedomain.com
+925;24.04.2015;RU;campaign_150423;24.04.2015 6:59;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";c20ff56900@somedomain.com
+926;24.04.2015;RU;campaign_150423;24.04.2015 6:59;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";ddb602677d@somedomain.com
+927;24.04.2015;RU;campaign_150423;24.04.2015 7:00;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";324a195b86@somedomain.com
+928;24.04.2015;RU;campaign_150423;24.04.2015 7:00;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";072e859d6f@somedomain.com
+929;24.04.2015;RU;campaign_150423;24.04.2015 7:00;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) YaBrowser/15.4.2272.3000.11 Mobile/12F69 Safari/600.1.4";b108efd0e4@somedomain.com
+930;24.04.2015;RU;campaign_150423;24.04.2015 7:00;Android;tablet;"Mozilla/5.0 (Linux; Android 4.4.4; Nexus 7 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.109 Safari/537.36";855eddd647@somedomain.com
+931;24.04.2015;KR;campaign_150420;24.04.2015 7:00;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";02f16c7e1d@somedomain.com
+932;24.04.2015;RU;campaign_150423;24.04.2015 7:00;Windows;desktop;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36";1647c00e3d@somedomain.com
+933;24.04.2015;US;campaign_150423;24.04.2015 7:01;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";9fa174ff66@somedomain.com
+934;24.04.2015;RU;campaign_150423;24.04.2015 7:01;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";d69f36f520@somedomain.com
+935;24.04.2015;RU;campaign_150423;24.04.2015 7:01;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";157603db5c@somedomain.com
+936;24.04.2015;RU;campaign_150423;24.04.2015 7:01;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";aa573aa751@somedomain.com
+937;24.04.2015;RU;campaign_150423;24.04.2015 7:02;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";aa573aa751@somedomain.com
+938;24.04.2015;RU;campaign_150423;24.04.2015 7:02;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko)";6a4ec84c60@somedomain.com
+939;24.04.2015;RU;campaign_150423;24.04.2015 7:02;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";a5f7783a15@somedomain.com
+940;24.04.2015;RU;campaign_150423;24.04.2015 7:02;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";307556572c@somedomain.com
+941;24.04.2015;RU;campaign_150423;24.04.2015 7:02;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257";a011449b47@somedomain.com
+942;24.04.2015;RU;campaign_150423;24.04.2015 7:02;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";29f70f2af2@somedomain.com
+943;24.04.2015;RU;campaign_150423;24.04.2015 7:03;Android;tablet;"Mozilla/5.0 (Linux; U; Android 4.2.2; ru-ru; GT-P5100 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30";40ac76d1c0@somedomain.com
+944;24.04.2015;RU;campaign_150423;24.04.2015 7:03;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201";a6797e36e8@somedomain.com
+945;24.04.2015;RU;campaign_150423;24.04.2015 7:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0a266d1541@somedomain.com
+946;24.04.2015;RU;campaign_150423;24.04.2015 7:03;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";c77d7d2140@somedomain.com
+947;24.04.2015;RU;campaign_150423;24.04.2015 7:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";29f70f2af2@somedomain.com
+948;24.04.2015;RU;campaign_150423;24.04.2015 7:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";939fc519a6@somedomain.com
+949;24.04.2015;RU;campaign_150423;24.04.2015 7:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";97d0f4bb11@somedomain.com
+950;24.04.2015;RU;campaign_150423;24.04.2015 7:03;Windows;desktop;"Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MSAppHost/2.0; rv:11.0) like Gecko";92adf0aedd@somedomain.com
+951;24.04.2015;RU;campaign_150423;24.04.2015 7:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";c1bebfbbf1@somedomain.com
+952;24.04.2015;US;campaign_150423;24.04.2015 7:03;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";753908ddee@somedomain.com
+953;24.04.2015;RU;campaign_150423;24.04.2015 7:03;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";afe788e76d@somedomain.com
+954;24.04.2015;RU;campaign_150423;24.04.2015 7:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";2590d4c506@somedomain.com
+955;24.04.2015;US;campaign_150423;24.04.2015 7:03;Windows;desktop;"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)";753908ddee@somedomain.com
+956;24.04.2015;RU;campaign_150423;24.04.2015 7:03;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";13d8261c47@somedomain.com
+957;24.04.2015;RU;campaign_150423;24.04.2015 7:04;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";6bdcd81765@somedomain.com
+958;24.04.2015;RU;campaign_150423;24.04.2015 7:04;Android;mobile;"Mozilla/5.0 (Linux; U; Android 2.3.5; ru-ru; HTC Desire S Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";ab1c3b4ea9@somedomain.com
+959;24.04.2015;RU;campaign_150423;24.04.2015 7:04;Android;tablet;"Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; GT-P3100 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30";bff2d6eb02@somedomain.com
+960;24.04.2015;RU;campaign_150423;24.04.2015 7:04;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko)";b6ddba7eeb@somedomain.com
+961;24.04.2015;RU;campaign_150423;24.04.2015 7:04;OS X;desktop;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko)";ab686d10e1@somedomain.com
+962;24.04.2015;RU;campaign_150423;24.04.2015 7:04;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";011c0c873e@somedomain.com
+963;24.04.2015;RU;campaign_150409;24.04.2015 7:04;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";55b8bd96f9@somedomain.com
+964;24.04.2015;RU;campaign_150423;24.04.2015 7:04;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36";6bdcd81765@somedomain.com
+965;24.04.2015;RU;campaign_150423;24.04.2015 7:04;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B410";b878a6a5ac@somedomain.com
+966;24.04.2015;RU;campaign_150423;24.04.2015 7:04;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";fe40e909d4@somedomain.com
+967;24.04.2015;RU;campaign_150423;24.04.2015 7:05;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3dac4f3f6d@somedomain.com
+968;24.04.2015;RU;campaign_150423;24.04.2015 7:05;iOS;mobile;"Mozilla/5.0 (iPod touch; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12A365";8c202019c6@somedomain.com
+969;24.04.2015;RU;campaign_150423;24.04.2015 7:05;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";580b00357e@somedomain.com
+970;24.04.2015;RU;campaign_150423;24.04.2015 7:05;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";fe40e909d4@somedomain.com
+971;24.04.2015;RU;campaign_150423;24.04.2015 7:05;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466";e26fb5fd47@somedomain.com
+972;24.04.2015;RU;campaign_150423;24.04.2015 7:05;Windows;desktop;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36;b9e7698fab@somedomain.com
+973;24.04.2015;RU;campaign_150420;24.04.2015 7:05;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";644b02deb9@somedomain.com
+974;24.04.2015;RU;campaign_150423;24.04.2015 7:05;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";64ce2bc85f@somedomain.com
+975;24.04.2015;RU;campaign_150423;24.04.2015 7:05;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";f444ec8d84@somedomain.com
+976;24.04.2015;RU;campaign_150423;24.04.2015 7:05;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0750d8cc21@somedomain.com
+977;24.04.2015;RU;campaign_150423;24.04.2015 7:05;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";0750d8cc21@somedomain.com
+978;24.04.2015;RU;campaign_150423;24.04.2015 7:05;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";eb66b7c17a@somedomain.com
+979;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";e43390e10d@somedomain.com
+980;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8357967495@somedomain.com
+981;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";8bce8e90ea@somedomain.com
+982;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Android;mobile;"Mozilla/5.0 (Linux; Android 5.0.1; SM-N910C Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.129 Mobile Safari/537.36";e5038f32fe@somedomain.com
+983;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4a06bfc2a0@somedomain.com
+984;24.04.2015;RU;campaign_150423;24.04.2015 7:06;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";5623303f98@somedomain.com
+985;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4a06bfc2a0@somedomain.com
+986;24.04.2015;RU;campaign_150423;24.04.2015 7:06;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";8ad5e97bc9@somedomain.com
+987;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";5e77d643e8@somedomain.com
+988;24.04.2015;RU;campaign_150423;24.04.2015 7:06;unknown;unknown;"RamblerMail/6.0 (incompatible; ImageProxy/6.0)";7fd5291c52@somedomain.com
+989;24.04.2015;RU;campaign_150423;24.04.2015 7:06;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";b46e927d53@somedomain.com
+990;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";d5d5752496@somedomain.com
+991;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";4a06bfc2a0@somedomain.com
+992;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Windows;desktop;"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; NP06; .NET4.0C; .NET4.0E; Microsoft Outlook 14.0.7147; ms-office; MSOffice 14)";6bdbaf52db@somedomain.com
+993;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";643ac0262a@somedomain.com
+994;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";3d505186c3@somedomain.com
+995;24.04.2015;RU;campaign_150423;24.04.2015 7:06;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";651160a558@somedomain.com
+996;24.04.2015;RU;campaign_150423;24.04.2015 7:06;Linux;desktop;"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.2 Safari/537.36";327b147bf1@somedomain.com
+997;24.04.2015;RU;campaign_150423;24.04.2015 7:07;iOS;tablet;"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69";fabb10ff92@somedomain.com
+998;24.04.2015;RU;campaign_150423;24.04.2015 7:07;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";ff31481349@somedomain.com
+999;24.04.2015;CZ;campaign_150423;24.04.2015 7:07;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12A365";2b426221f2@somedomain.com
+1000;24.04.2015;RU;campaign_150423;24.04.2015 7:07;iOS;mobile;"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70";7f4cbc1eba@somedomain.com
